@@ -1,0 +1,723 @@
+{
+  "originUrl": "https://www.mongodb.com",
+  "aborted": false,
+  "lastCrawled": "https://www.mongodb.com/company/newsroom",
+  "urls": [
+    {
+      "url": "https://www.mongodb.com/",
+      "source": "CRAWL",
+      "targetPath": "/",
+      "id": "b7400a2a33a54ea8416602dcc8d9bc84a25b610c"
+    },
+    {
+      "url": "https://www.mongodb.com/blog/post/retool-state-of-ai-report-mongodb-vector-search-most-loved-vector-database-br",
+      "source": "CRAWL",
+      "targetPath": "/blog/post/retool-state-of-ai-report-mongodb-vector-search-most-loved-vector-database-br",
+      "id": "3e749cf4527334f0407be3d058195ae679c469f3"
+    },
+    {
+      "url": "https://www.mongodb.com/blog/post/retool-state-of-ai-report-mongodb-vector-search-most-loved-vector-database-cn",
+      "source": "CRAWL",
+      "targetPath": "/blog/post/retool-state-of-ai-report-mongodb-vector-search-most-loved-vector-database-cn",
+      "id": "72c6bdd4ecaf86318e661351e0b7a513b2e754f0"
+    },
+    {
+      "url": "https://www.mongodb.com/blog/post/retool-state-of-ai-report-mongodb-vector-search-most-loved-vector-database-de",
+      "source": "CRAWL",
+      "targetPath": "/blog/post/retool-state-of-ai-report-mongodb-vector-search-most-loved-vector-database-de",
+      "id": "20e1bb5df8f9843c0b458fa96f0738287c15d4d2"
+    },
+    {
+      "url": "https://www.mongodb.com/blog/post/retool-state-of-ai-report-mongodb-vector-search-most-loved-vector-database-fr",
+      "source": "CRAWL",
+      "targetPath": "/blog/post/retool-state-of-ai-report-mongodb-vector-search-most-loved-vector-database-fr",
+      "id": "d96304621a0c02c08425fbcba1226e08c80d0532"
+    },
+    {
+      "url": "https://www.mongodb.com/blog/post/retool-state-of-ai-report-mongodb-vector-search-most-loved-vector-database-it",
+      "source": "CRAWL",
+      "targetPath": "/blog/post/retool-state-of-ai-report-mongodb-vector-search-most-loved-vector-database-it",
+      "id": "2973298180a83a5a0f99c5db4202448a7300132e"
+    },
+    {
+      "url": "https://www.mongodb.com/blog/post/retool-state-of-ai-report-mongodb-vector-search-most-loved-vector-database-kr",
+      "source": "CRAWL",
+      "targetPath": "/blog/post/retool-state-of-ai-report-mongodb-vector-search-most-loved-vector-database-kr",
+      "id": "62009e005b441f54c61fe2491dc5e0db333cd63e"
+    },
+    {
+      "url": "https://www.mongodb.com/blog/post/retool-state-of-ai-report-mongodb-vector-search-most-loved-vector-database-la",
+      "source": "CRAWL",
+      "targetPath": "/blog/post/retool-state-of-ai-report-mongodb-vector-search-most-loved-vector-database-la",
+      "id": "ba30d0f02ebc8d3bb256cc045a3933ff6319162c"
+    },
+    {
+      "url": "https://www.mongodb.com/cloud/atlas/register",
+      "source": "CRAWL",
+      "targetPath": "/cloud/atlas/register",
+      "id": "fa6ed98688bebb8cdd62e11441b923520609ea75"
+    },
+    {
+      "url": "https://www.mongodb.com/cloud/atlas/register?tck=Gartner_MQ_2024_blog",
+      "source": "CRAWL",
+      "targetPath": "/cloud/atlas/register",
+      "id": "bafaaf93d08e1d28eb2eac4be134ab2281f97edd"
+    },
+    {
+      "url": "https://www.mongodb.com/community/",
+      "source": "CRAWL",
+      "targetPath": "/community",
+      "id": "aa49366b6755e63f17f8086f35109b2e7f28c4f7"
+    },
+    {
+      "url": "https://www.mongodb.com/company",
+      "source": "CRAWL",
+      "targetPath": "/company",
+      "id": "1418f24ca351f11e262fbd5e9993df252aee6faa"
+    },
+    {
+      "url": "https://www.mongodb.com/company/blog",
+      "source": "CRAWL",
+      "targetPath": "/company/blog",
+      "id": "7a075f6945c3d22c102574c69c82ed92a6023510"
+    },
+    {
+      "url": "https://www.mongodb.com/company/blog/culture/mongodb-best-place-work-2023-according-employees-glassdoor",
+      "source": "CRAWL",
+      "targetPath": "/company/blog/culture/mongodb-best-place-work-2023-according-employees-glassdoor",
+      "id": "5c71f466b9a94802b88afe9ff7e5213cfe545f51"
+    },
+    {
+      "url": "https://www.mongodb.com/company/blog/culture/mongodb-sales-recognized-as-top-20-org-professional-development-repvue",
+      "source": "CRAWL",
+      "targetPath": "/company/blog/culture/mongodb-sales-recognized-as-top-20-org-professional-development-repvue",
+      "id": "6e31b2b7100e9ab56db81ec78718e44f22b96d70"
+    },
+    {
+      "url": "https://www.mongodb.com/company/blog/engineering/carrying-complexity-delivering-agility",
+      "source": "CRAWL",
+      "targetPath": "/company/blog/engineering/carrying-complexity-delivering-agility",
+      "id": "b63943dd7f256829869b1538dd51050b67fe0a1f"
+    },
+    {
+      "url": "https://www.mongodb.com/company/blog/innovation/using-agentic-rag-transform-retail-mongodb",
+      "source": "CRAWL",
+      "targetPath": "/company/blog/innovation/using-agentic-rag-transform-retail-mongodb",
+      "id": "a1faa379e2890918dd612da183be67513d13d74e"
+    },
+    {
+      "url": "https://www.mongodb.com/company/blog/news/announcing-mongodb-as-founding-member-of-nist-ai-safety-institute-consortium",
+      "source": "CRAWL",
+      "targetPath": "/company/blog/news/announcing-mongodb-as-founding-member-of-nist-ai-safety-institute-consortium",
+      "id": "4110fff3ff82aebc3629d495b4844a09b40884f6"
+    },
+    {
+      "url": "https://www.mongodb.com/company/blog/news/aws-names-mongodb-asean-global-software-partner-of-year",
+      "source": "CRAWL",
+      "targetPath": "/company/blog/news/aws-names-mongodb-asean-global-software-partner-of-year",
+      "id": "ce03b63a4ce0482b3a47541062f1d2383a23e81e"
+    },
+    {
+      "url": "https://www.mongodb.com/company/blog/news/mongodb-named-leader-2022-gartner-magic-quadrant-cloud-database-management-systems",
+      "source": "CRAWL",
+      "targetPath": "/company/blog/news/mongodb-named-leader-2022-gartner-magic-quadrant-cloud-database-management-systems",
+      "id": "535856baa8b0a70396aad08f09aea90047f66ba0"
+    },
+    {
+      "url": "https://www.mongodb.com/company/blog/news/mongodb-named-leader-2023-gartner-magic-quadrant-cloud-database-management-systems",
+      "source": "CRAWL",
+      "targetPath": "/company/blog/news/mongodb-named-leader-2023-gartner-magic-quadrant-cloud-database-management-systems",
+      "id": "d757541698d150376fc73c0ab62370cf0b9503c7"
+    },
+    {
+      "url": "https://www.mongodb.com/company/blog/news/mongodb-named-leader-2024-gartner-magic-quadrant-cloud-database-management-system",
+      "source": "CRAWL",
+      "targetPath": "/company/blog/news/mongodb-named-leader-2024-gartner-magic-quadrant-cloud-database-management-system",
+      "id": "6d6526da55850fe3a93fbcc76efc3b7904c905d9"
+    },
+    {
+      "url": "https://www.mongodb.com/company/blog/news/retool-state-of-ai-report-mongodb-vector-search-most-loved-vector-database",
+      "source": "CRAWL",
+      "targetPath": "/company/blog/news/retool-state-of-ai-report-mongodb-vector-search-most-loved-vector-database",
+      "id": "050d972fb57b1e2897417555033a78335bcb3aa7"
+    },
+    {
+      "url": "https://www.mongodb.com/company/blog/product-release-announcements/amp-ai-driven-approach-modernization",
+      "source": "CRAWL",
+      "targetPath": "/company/blog/product-release-announcements/amp-ai-driven-approach-modernization",
+      "id": "86e8c585975c739c7232b4d02b3825f88a9ef4ef"
+    },
+    {
+      "url": "https://www.mongodb.com/company/blog/product-release-announcements/supercharge-self-managed-apps-search-vector-search-capabilities",
+      "source": "CRAWL",
+      "targetPath": "/company/blog/product-release-announcements/supercharge-self-managed-apps-search-vector-search-capabilities",
+      "id": "4a30381e4b297b65f74d75b7dc28ce3fad93607f"
+    },
+    {
+      "url": "https://www.mongodb.com/company/careers",
+      "source": "CRAWL",
+      "targetPath": "/company/careers",
+      "id": "9dcba6430c62d822301329bd24f1f96ec6c30921"
+    },
+    {
+      "url": "https://www.mongodb.com/company/contact",
+      "source": "CRAWL",
+      "targetPath": "/company/contact",
+      "id": "77aee00c05635143aa523ff50d407aec1d5f53c4"
+    },
+    {
+      "url": "https://www.mongodb.com/company/contact?tck=Gartner_MQ_2024_blog",
+      "source": "CRAWL",
+      "targetPath": "/company/contact",
+      "id": "66ca40ae752f745d7c3dc4c172f87f390501429e"
+    },
+    {
+      "url": "https://www.mongodb.com/company/contact/mongodb-vulnerability-disclosure-policy",
+      "source": "CRAWL",
+      "targetPath": "/company/contact/mongodb-vulnerability-disclosure-policy",
+      "id": "867bc39dbedd45d291cb7b6059614866757fe0ae"
+    },
+    {
+      "url": "https://www.mongodb.com/company/contact/social-media-hub",
+      "source": "CRAWL",
+      "targetPath": "/company/contact/social-media-hub",
+      "id": "c29073b890d2b8579f6db30f1fccf8512f36af8e"
+    },
+    {
+      "url": "https://www.mongodb.com/company/leadership",
+      "source": "CRAWL",
+      "targetPath": "/company/leadership",
+      "id": "9e3cc22a74a604e30d32d737279b2ce5954db0b5"
+    },
+    {
+      "url": "https://www.mongodb.com/company/leadership-principles",
+      "source": "CRAWL",
+      "targetPath": "/company/leadership-principles",
+      "id": "59cde74671b7604fe687b3a52ba8ac4887263485"
+    },
+    {
+      "url": "https://www.mongodb.com/company/newsroom",
+      "source": "CRAWL",
+      "targetPath": "/company/newsroom",
+      "id": "f736ae79caf7aa4dbaa12d6083ab39c2feb34dee"
+    },
+    {
+      "url": "https://www.mongodb.com/company/newsroom/brand-resources",
+      "source": "CRAWL",
+      "targetPath": "/company/newsroom/brand-resources",
+      "id": "409c455da7c87d58ab11f8fc20d54f1067b4ea20"
+    },
+    {
+      "url": "https://www.mongodb.com/company/newsroom/news-coverage",
+      "source": "CRAWL",
+      "targetPath": "/company/newsroom/news-coverage",
+      "id": "0c81b15ddb29d58af10b623cc3fd50e5e289f024"
+    },
+    {
+      "url": "https://www.mongodb.com/company/newsroom/press-releases",
+      "source": "CRAWL",
+      "targetPath": "/company/newsroom/press-releases",
+      "id": "a3ea011c020253276a57c91cab331e6f4f043bb6"
+    },
+    {
+      "url": "https://www.mongodb.com/company/our-story",
+      "source": "CRAWL",
+      "targetPath": "/company/our-story",
+      "id": "c84237a8f53ff847b97b019f8ce7574518034c5b"
+    },
+    {
+      "url": "https://www.mongodb.com/company/partners",
+      "source": "CRAWL",
+      "targetPath": "/company/partners",
+      "id": "7fdbfa479cd3628acd9b2f234a4a0c731a79e5c4"
+    },
+    {
+      "url": "https://www.mongodb.com/company/sustainability",
+      "source": "CRAWL",
+      "targetPath": "/company/sustainability",
+      "id": "e4522fcf63b6b14a0e67af98931e82cfafde0829"
+    },
+    {
+      "url": "https://www.mongodb.com/company/values",
+      "source": "CRAWL",
+      "targetPath": "/company/values",
+      "id": "59603a3872d08b71e642bebf441798ec70fb497a"
+    },
+    {
+      "url": "https://www.mongodb.com/docs/atlas/",
+      "source": "CRAWL",
+      "targetPath": "/docs/atlas",
+      "id": "ff1aab333cfba4e9f524c4c4b148429e575acb48"
+    },
+    {
+      "url": "https://www.mongodb.com/docs/atlas/architecture/current/solutions-library/",
+      "source": "CRAWL",
+      "targetPath": "/docs/atlas/architecture/current/solutions-library",
+      "id": "e154ffce3e1c88c21bace8b27e31a72d99a74800"
+    },
+    {
+      "url": "https://www.mongodb.com/docs/drivers/",
+      "source": "CRAWL",
+      "targetPath": "/docs/drivers",
+      "id": "48a52622402f2d16d8dff9799fdcf8a6dd106c6e"
+    },
+    {
+      "url": "https://www.mongodb.com/docs/manual/",
+      "source": "CRAWL",
+      "targetPath": "/docs/manual",
+      "id": "3d7d6306cbf0d1339a978a6b7dfbc36e6b778267"
+    },
+    {
+      "url": "https://www.mongodb.com/docs/tools-and-connectors/",
+      "source": "CRAWL",
+      "targetPath": "/docs/tools-and-connectors",
+      "id": "802f89b742bc421a88285a412f2d08e511cffb46"
+    },
+    {
+      "url": "https://www.mongodb.com/events",
+      "source": "CRAWL",
+      "targetPath": "/events",
+      "id": "9579edc3a2101802951cc3674767eae95cdf2a3c"
+    },
+    {
+      "url": "https://www.mongodb.com/events/mongodb-local/london?tck=pencil_banner",
+      "source": "CRAWL",
+      "targetPath": "/events/mongodb-local/london",
+      "id": "e562ff7fda5f4458a344c2f949f7ff51e8cc67ef"
+    },
+    {
+      "url": "https://www.mongodb.com/legal",
+      "source": "CRAWL",
+      "targetPath": "/legal",
+      "id": "e2acfc8395998fa2e3b2975bc8370b9e3efe3c3e"
+    },
+    {
+      "url": "https://www.mongodb.com/legal/privacy/privacy-policy",
+      "source": "CRAWL",
+      "targetPath": "/legal/privacy/privacy-policy",
+      "id": "81172ec3cdc9781c05c52fbd4797cc6af3735ce0"
+    },
+    {
+      "url": "https://www.mongodb.com/press/mongo-db-announces-commitment-to-achieve-fedramp-high-and-impact-level-5-authorizations",
+      "source": "CRAWL",
+      "targetPath": "/press/mongo-db-announces-commitment-to-achieve-fedramp-high-and-impact-level-5-authorizations",
+      "id": "208a0f9d22bdc2c045557b94b9b8d2cde7728968"
+    },
+    {
+      "url": "https://www.mongodb.com/press/mongodb-extends-search-and-vector-search-capabilities-to-self-managed-offerings",
+      "source": "CRAWL",
+      "targetPath": "/press/mongodb-extends-search-and-vector-search-capabilities-to-self-managed-offerings",
+      "id": "dc6d13894f0f20fd9efaa30ce2390e3aa8b54a56"
+    },
+    {
+      "url": "https://www.mongodb.com/press/mongodb-inc-announces-mike-berry-as-chief-financial-officer",
+      "source": "CRAWL",
+      "targetPath": "/press/mongodb-inc-announces-mike-berry-as-chief-financial-officer",
+      "id": "b66eee27641845ae8f01c4bb85bd8c1a862f458c"
+    },
+    {
+      "url": "https://www.mongodb.com/press/mongodb-launches-ai-powered-application-modernization-platform-to-reduce-technical-debt-and-speed-innovation",
+      "source": "CRAWL",
+      "targetPath": "/press/mongodb-launches-ai-powered-application-modernization-platform-to-reduce-technical-debt-and-speed-innovation",
+      "id": "9eba2303f9f556f8c3a020431ea17eb3858827c1"
+    },
+    {
+      "url": "https://www.mongodb.com/press/mongodb-strengthens-foundation-for-ai-applications-with-product-innovations-and-expanded-partner-ecosystem",
+      "source": "CRAWL",
+      "targetPath": "/press/mongodb-strengthens-foundation-for-ai-applications-with-product-innovations-and-expanded-partner-ecosystem",
+      "id": "18709ec5178e8c13dfc65cae53b68df70641d26e"
+    },
+    {
+      "url": "https://www.mongodb.com/pricing",
+      "source": "CRAWL",
+      "targetPath": "/pricing",
+      "id": "92bc5fbf9a6ebde4924c76dfb104572f8fb1b026"
+    },
+    {
+      "url": "https://www.mongodb.com/products/capabilities/observability",
+      "source": "CRAWL",
+      "targetPath": "/products/capabilities/observability",
+      "id": "724402c957d6c438ff0decc0f173aee312227f86"
+    },
+    {
+      "url": "https://www.mongodb.com/products/capabilities/security/encryption",
+      "source": "CRAWL",
+      "targetPath": "/products/capabilities/security/encryption",
+      "id": "3f9d96ea1c05088bddbb61797b406e9daddd08ad"
+    },
+    {
+      "url": "https://www.mongodb.com/products/platform",
+      "source": "CRAWL",
+      "targetPath": "/products/platform",
+      "id": "0ba6b0164477cbc0777c598324d5cdfdb47b1292"
+    },
+    {
+      "url": "https://www.mongodb.com/products/platform/atlas-data-federation",
+      "source": "CRAWL",
+      "targetPath": "/products/platform/atlas-data-federation",
+      "id": "da1c6a36c7a281292cba31516e5bd0a74bf99670"
+    },
+    {
+      "url": "https://www.mongodb.com/products/platform/atlas-database",
+      "source": "CRAWL",
+      "targetPath": "/products/platform/atlas-database",
+      "id": "faf72db6ef650ccfe56d2165ac8a800704bca28f"
+    },
+    {
+      "url": "https://www.mongodb.com/products/platform/atlas-search",
+      "source": "CRAWL",
+      "targetPath": "/products/platform/atlas-search",
+      "id": "5858653885902f914e9b2e3ddb7f5729380e1520"
+    },
+    {
+      "url": "https://www.mongodb.com/products/platform/atlas-stream-processing",
+      "source": "CRAWL",
+      "targetPath": "/products/platform/atlas-stream-processing",
+      "id": "d051fbfd17cb8de563be4ac04a5960c6e7dcf1c4"
+    },
+    {
+      "url": "https://www.mongodb.com/products/platform/atlas-vector-search",
+      "source": "CRAWL",
+      "targetPath": "/products/platform/atlas-vector-search",
+      "id": "8c5fe785b9cd0d32492fa49afe8a52338c891648"
+    },
+    {
+      "url": "https://www.mongodb.com/products/platform/trust",
+      "source": "CRAWL",
+      "targetPath": "/products/platform/trust",
+      "id": "eb8805b41663c58771c7a1ca820681608f8a613a"
+    },
+    {
+      "url": "https://www.mongodb.com/products/self-managed/community-edition",
+      "source": "CRAWL",
+      "targetPath": "/products/self-managed/community-edition",
+      "id": "e5ec0c66898cd741376df5fa879cc90d72e30e80"
+    },
+    {
+      "url": "https://www.mongodb.com/products/self-managed/enterprise-advanced",
+      "source": "CRAWL",
+      "targetPath": "/products/self-managed/enterprise-advanced",
+      "id": "bc805b0dd6b448ac7ebd8f4a2b298ba8b53c4aeb"
+    },
+    {
+      "url": "https://www.mongodb.com/products/tools/compass",
+      "source": "CRAWL",
+      "targetPath": "/products/tools/compass",
+      "id": "6d2764d17e72595da9afd02340dd7cf7e9ae517b"
+    },
+    {
+      "url": "https://www.mongodb.com/products/tools/relational-migrator",
+      "source": "CRAWL",
+      "targetPath": "/products/tools/relational-migrator",
+      "id": "05b39d48c658a62b45fc848ade480a45d9099238"
+    },
+    {
+      "url": "https://www.mongodb.com/products/updates/",
+      "source": "CRAWL",
+      "targetPath": "/products/updates",
+      "id": "875863febedf66fb0837148be2830bd8e108d5a9"
+    },
+    {
+      "url": "https://www.mongodb.com/products/updates/version-release",
+      "source": "CRAWL",
+      "targetPath": "/products/updates/version-release",
+      "id": "1077b0ae2f0811e43e620b1a79eb0b526e8d7566"
+    },
+    {
+      "url": "https://www.mongodb.com/resources",
+      "source": "CRAWL",
+      "targetPath": "/resources",
+      "id": "2ee7151928e224d11fc10227205ada85f09101c9"
+    },
+    {
+      "url": "https://www.mongodb.com/resources/basics/artificial-intelligence/retrieval-augmented-generation",
+      "source": "CRAWL",
+      "targetPath": "/resources/basics/artificial-intelligence/retrieval-augmented-generation",
+      "id": "3f5ae57ec82ea911c71e7160cf079d2c76ab6f3d"
+    },
+    {
+      "url": "https://www.mongodb.com/resources/basics/databases/acid-transactions",
+      "source": "CRAWL",
+      "targetPath": "/resources/basics/databases/acid-transactions",
+      "id": "9c843a1b52890a0e1a3825fb07445b82bfebcbc2"
+    },
+    {
+      "url": "https://www.mongodb.com/resources/basics/databases/document-databases",
+      "source": "CRAWL",
+      "targetPath": "/resources/basics/databases/document-databases",
+      "id": "f12ae1bd0b2910912cc8f3a2a52860d85f11842a"
+    },
+    {
+      "url": "https://www.mongodb.com/resources/basics/databases/nosql-explained",
+      "source": "CRAWL",
+      "targetPath": "/resources/basics/databases/nosql-explained",
+      "id": "ef80a80fbdadd3dd8f56e4b596f88394f1687eb6"
+    },
+    {
+      "url": "https://www.mongodb.com/resources/basics/databases/vector-databases",
+      "source": "CRAWL",
+      "targetPath": "/resources/basics/databases/vector-databases",
+      "id": "7dcdc5c1c4fc88f3b26ac3d85fb06ca8808042dc"
+    },
+    {
+      "url": "https://www.mongodb.com/resources/languages/mern-stack",
+      "source": "CRAWL",
+      "targetPath": "/resources/languages/mern-stack",
+      "id": "4d3d651ea6c1ae431e7fb9664666cb9acdbe71a3"
+    },
+    {
+      "url": "https://www.mongodb.com/resources/solutions/use-cases/gartner-mq-cloud-database-2024",
+      "source": "CRAWL",
+      "targetPath": "/resources/solutions/use-cases/gartner-mq-cloud-database-2024",
+      "id": "1f813419a75c76f81d007c275f963a2377d305f7"
+    },
+    {
+      "url": "https://www.mongodb.com/resources/solutions/use-cases/mongodb-evolves-its-portfolio-with-ai-at-the-top",
+      "source": "CRAWL",
+      "targetPath": "/resources/solutions/use-cases/mongodb-evolves-its-portfolio-with-ai-at-the-top",
+      "id": "b3847d890b9e58485c107bfb39692a2a308033c4"
+    },
+    {
+      "url": "https://www.mongodb.com/resources/solutions/use-cases/retool-2024-state-of-ai-in-production?tck=retool_report_blog",
+      "source": "CRAWL",
+      "targetPath": "/resources/solutions/use-cases/retool-2024-state-of-ai-in-production",
+      "id": "a57cf220d9a2238db8f32e6cd4de97d775f77602"
+    },
+    {
+      "url": "https://www.mongodb.com/resources/solutions/use-cases/top-translytical-data-platforms-2024",
+      "source": "CRAWL",
+      "targetPath": "/resources/solutions/use-cases/top-translytical-data-platforms-2024",
+      "id": "68d651c3692d6bb2d3ee4480e9d3ef75b9a4f207"
+    },
+    {
+      "url": "https://www.mongodb.com/services/support",
+      "source": "CRAWL",
+      "targetPath": "/services/support",
+      "id": "e609ec2d93b41fc08fd70d4267b1c48c28f514f6"
+    },
+    {
+      "url": "https://www.mongodb.com/solutions/customer-case-studies",
+      "source": "CRAWL",
+      "targetPath": "/solutions/customer-case-studies",
+      "id": "5be9bbf14e1a45d7de73e82134faf2e00f2366e6"
+    },
+    {
+      "url": "https://www.mongodb.com/solutions/industries/financial-services",
+      "source": "CRAWL",
+      "targetPath": "/solutions/industries/financial-services",
+      "id": "d54b6c145fd2c244f574b684fe8822dbd00ffc5f"
+    },
+    {
+      "url": "https://www.mongodb.com/solutions/industries/healthcare",
+      "source": "CRAWL",
+      "targetPath": "/solutions/industries/healthcare",
+      "id": "5bc73f3b1830ae894fbbba986e7eaea57bedc56c"
+    },
+    {
+      "url": "https://www.mongodb.com/solutions/industries/manufacturing",
+      "source": "CRAWL",
+      "targetPath": "/solutions/industries/manufacturing",
+      "id": "c0ce284311f922b0249572f9d82978ce4e7a86dc"
+    },
+    {
+      "url": "https://www.mongodb.com/solutions/industries/public-sector",
+      "source": "CRAWL",
+      "targetPath": "/solutions/industries/public-sector",
+      "id": "14bce7a1dca3651a4a2a8406811b32530558dfcb"
+    },
+    {
+      "url": "https://www.mongodb.com/solutions/industries/retail",
+      "source": "CRAWL",
+      "targetPath": "/solutions/industries/retail",
+      "id": "f019f2e77cf7ec7481401626b34a346612f84d12"
+    },
+    {
+      "url": "https://www.mongodb.com/solutions/industries/telecommunications",
+      "source": "CRAWL",
+      "targetPath": "/solutions/industries/telecommunications",
+      "id": "badfc04e8fd5055fd13017976d48540a1956aab1"
+    },
+    {
+      "url": "https://www.mongodb.com/solutions/startups",
+      "source": "CRAWL",
+      "targetPath": "/solutions/startups",
+      "id": "5020bc418b4b33260bd11286105bbcbd49064099"
+    },
+    {
+      "url": "https://www.mongodb.com/solutions/use-cases/artificial-intelligence",
+      "source": "CRAWL",
+      "targetPath": "/solutions/use-cases/artificial-intelligence",
+      "id": "d99b87c85d407b90f095961609a09826bda18181"
+    },
+    {
+      "url": "https://www.mongodb.com/solutions/use-cases/edge-and-mobile",
+      "source": "CRAWL",
+      "targetPath": "/solutions/use-cases/edge-and-mobile",
+      "id": "023a19e0177a4ea95d1f573709a543a78c6d9f8d"
+    },
+    {
+      "url": "https://www.mongodb.com/solutions/use-cases/gaming",
+      "source": "CRAWL",
+      "targetPath": "/solutions/use-cases/gaming",
+      "id": "3636fa7e1c1a2768940c69c7f38cbfa1f7af18f4"
+    },
+    {
+      "url": "https://www.mongodb.com/solutions/use-cases/intelligent-search",
+      "source": "CRAWL",
+      "targetPath": "/solutions/use-cases/intelligent-search",
+      "id": "f65ff79807f6c295cd0a5ce394344424c7390b15"
+    },
+    {
+      "url": "https://www.mongodb.com/solutions/use-cases/modernize",
+      "source": "CRAWL",
+      "targetPath": "/solutions/use-cases/modernize",
+      "id": "1172e876e3abb3565947dec6dd8d998ae63988da"
+    },
+    {
+      "url": "https://www.mongodb.com/solutions/use-cases/payments",
+      "source": "CRAWL",
+      "targetPath": "/solutions/use-cases/payments",
+      "id": "500c9dc33844ab9d7f3d0e26d62561f15e41fcd1"
+    },
+    {
+      "url": "https://www.mongodb.com/solutions/use-cases/serverless",
+      "source": "CRAWL",
+      "targetPath": "/solutions/use-cases/serverless",
+      "id": "2e40b0d67c354e0cbaf45bbc3551887dec4dc25d"
+    },
+    {
+      "url": "https://www.mongodb.com/try/download/community",
+      "source": "CRAWL",
+      "targetPath": "/try/download/community",
+      "id": "f93466b616572e199cf40ce1e85fa9a7e0162378"
+    },
+    {
+      "url": "https://www.mongodb.com/try/download/enterprise",
+      "source": "CRAWL",
+      "targetPath": "/try/download/enterprise",
+      "id": "dfe8f748a8b954d93e54ad514b0e9f78c91fda65"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 10000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS",
+      "CRAWL"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://www.mongodb.com/blog",
+      "status": "301 Moved Permanently Redirect: https://www.mongodb.com/company/blog/"
+    },
+    {
+      "url": "https://www.mongodb.com/blog/rss",
+      "status": "301 Moved Permanently Redirect: https://www.mongodb.com/company/blog/rss"
+    },
+    {
+      "url": "https://www.mongodb.com/careers",
+      "status": "301 Moved Permanently Redirect: https://www.mongodb.com/company/careers"
+    },
+    {
+      "url": "https://www.mongodb.com/leadership",
+      "status": "301 Moved Permanently Redirect: https://www.mongodb.com/company/leadership"
+    },
+    {
+      "url": "https://www.mongodb.com/docs/atlas/architecture/current/solutions-library",
+      "status": "301 Moved Permanently Redirect: https://www.mongodb.com/docs/atlas/architecture/current/solutions-library/"
+    },
+    {
+      "url": "https://www.mongodb.com/legal/legal-notices",
+      "status": "301 Moved Permanently Redirect: https://www.mongodb.com/legal"
+    },
+    {
+      "url": "https://www.mongodb.com/company-profile",
+      "status": "302 Moved Temporarily Redirect: https://www.mongodb.com/company"
+    },
+    {
+      "url": "https://www.mongodb.com/company/blog/",
+      "status": "302 Moved Temporarily Redirect: https://www.mongodb.com/company/blog"
+    },
+    {
+      "url": "https://www.mongodb.com/blog/post/mongodb-best-place-work-2023-according-employees-glassdoor",
+      "status": "302 Moved Temporarily Redirect: https://www.mongodb.com/company/blog/culture/mongodb-best-place-work-2023-according-employees-glassdoor"
+    },
+    {
+      "url": "https://www.mongodb.com/blog/post/mongodb-sales-recognized-as-top-20-org-professional-development-repvue2",
+      "status": "302 Moved Temporarily Redirect: https://www.mongodb.com/company/blog/culture/mongodb-sales-recognized-as-top-20-org-professional-development-repvue"
+    },
+    {
+      "url": "https://www.mongodb.com/blog/post/mongodb-sales-recognized-as-top-20-org-professional-development-repvue",
+      "status": "302 Moved Temporarily Redirect: https://www.mongodb.com/company/blog/culture/mongodb-sales-recognized-as-top-20-org-professional-development-repvue"
+    },
+    {
+      "url": "https://www.mongodb.com/blog/post/announcing-mongodb-as-founding-member-of-nist-ai-safety-institute-consortium",
+      "status": "302 Moved Temporarily Redirect: https://www.mongodb.com/company/blog/news/announcing-mongodb-as-founding-member-of-nist-ai-safety-institute-consortium"
+    },
+    {
+      "url": "https://www.mongodb.com/blog/post/aws-names-mongodb-asean-global-software-partner-of-year",
+      "status": "302 Moved Temporarily Redirect: https://www.mongodb.com/company/blog/news/aws-names-mongodb-asean-global-software-partner-of-year"
+    },
+    {
+      "url": "https://www.mongodb.com/blog/post/mongodb-named-leader-2022-gartner-magic-quadrant-cloud-database-management-systems",
+      "status": "302 Moved Temporarily Redirect: https://www.mongodb.com/company/blog/news/mongodb-named-leader-2022-gartner-magic-quadrant-cloud-database-management-systems"
+    },
+    {
+      "url": "https://www.mongodb.com/blog/post/mongodb-named-leader-2023-gartner-magic-quadrant-cloud-database-management-systems",
+      "status": "302 Moved Temporarily Redirect: https://www.mongodb.com/company/blog/news/mongodb-named-leader-2023-gartner-magic-quadrant-cloud-database-management-systems"
+    },
+    {
+      "url": "https://www.mongodb.com/blog/post/mongodb-named-leader-2024-gartner-magic-quadrant-cloud-database-management-system",
+      "status": "302 Moved Temporarily Redirect: https://www.mongodb.com/company/blog/news/mongodb-named-leader-2024-gartner-magic-quadrant-cloud-database-management-system"
+    },
+    {
+      "url": "https://www.mongodb.com/blog/post/retool-state-of-ai-report-mongodb-vector-search-most-loved-vector-database",
+      "status": "302 Moved Temporarily Redirect: https://www.mongodb.com/company/blog/news/retool-state-of-ai-report-mongodb-vector-search-most-loved-vector-database"
+    },
+    {
+      "url": "https://www.mongodb.com/pressroom",
+      "status": "302 Moved Temporarily Redirect: https://www.mongodb.com/company/newsroom"
+    },
+    {
+      "url": "https://www.mongodb.com/brand-resources",
+      "status": "302 Moved Temporarily Redirect: https://www.mongodb.com/company/newsroom/brand-resources"
+    },
+    {
+      "url": "https://www.mongodb.com/atlas",
+      "status": "302 Moved Temporarily Redirect: https://www.mongodb.com/products/platform"
+    },
+    {
+      "url": "https://www.mongodb.com/presentations/maximizing-ai-potential-for-engineering-teams-in-2024?tck=retool_blog_2024",
+      "status": "302 Moved Temporarily Redirect: https://www.mongodb.com/resources/solutions/use-cases/webinar-maximizing-ai-potential-for-engineering-teams-in-2024?tck=retool_blog_2024"
+    },
+    {
+      "url": "https://www.mongodb.com/products/updates",
+      "status": "308 Permanent Redirect Redirect: https://www.mongodb.com/products/updates/"
+    },
+    {
+      "url": "https://www.mongodb.com//logx.optimizely.com",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.mongodb.com/services/consulting/ai-applications-program",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.mongodb.com/services/consulting/ai-applications-program?tck=Gartner_MQ_2024_blog",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.mongodb.com/company/blog/rss",
+      "status": "content type is not text/html. Content type: text/xml; charset=utf-8"
+    }
+  ],
+  "errorCountMessage": "{\"E_301\":6,\"E_302\":15,\"E_308\":1,\"E_404\":3,\"others\":1}",
+  "error": null
+}
