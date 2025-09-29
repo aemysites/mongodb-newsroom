@@ -1,0 +1,3834 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/tools/relational-migrator",
+          "urlHash": "05b39d48c658a62b45fc848ade480a45d9099238",
+          "uuid": "05b39d48-00-bf6bc3422b133d22277cf37a21695689ccac15db",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/products/platform",
+          "urlHash": "0ba6b0164477cbc0777c598324d5cdfdb47b1292",
+          "uuid": "0ba6b016-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/company/newsroom/news-coverage",
+          "urlHash": "0c81b15ddb29d58af10b623cc3fd50e5e289f024",
+          "uuid": "0c81b15d-00-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/products/updates/version-release",
+          "urlHash": "1077b0ae2f0811e43e620b1a79eb0b526e8d7566",
+          "uuid": "1077b0ae-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/press/mongodb-strengthens-foundation-for-ai-applications-with-product-innovations-and-expanded-partner-ecosystem",
+          "urlHash": "18709ec5178e8c13dfc65cae53b68df70641d26e",
+          "uuid": "18709ec5-00-ec260e70fd0d109a7b00561467202bbb97cfb965",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/press/mongo-db-announces-commitment-to-achieve-fedramp-high-and-impact-level-5-authorizations",
+          "urlHash": "208a0f9d22bdc2c045557b94b9b8d2cde7728968",
+          "uuid": "208a0f9d-00-ec260e70fd0d109a7b00561467202bbb97cfb965",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/resources",
+          "urlHash": "2ee7151928e224d11fc10227205ada85f09101c9",
+          "uuid": "2ee71519-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/company/newsroom/brand-resources",
+          "urlHash": "409c455da7c87d58ab11f8fc20d54f1067b4ea20",
+          "uuid": "409c455d-00-bf6bc3422b133d22277cf37a21695689ccac15db",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/products/platform/atlas-search",
+          "urlHash": "5858653885902f914e9b2e3ddb7f5729380e1520",
+          "uuid": "58586538-00-bf6bc3422b133d22277cf37a21695689ccac15db",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/company/values",
+          "urlHash": "59603a3872d08b71e642bebf441798ec70fb497a",
+          "uuid": "59603a38-00-bf6bc3422b133d22277cf37a21695689ccac15db",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/products/tools/compass",
+          "urlHash": "6d2764d17e72595da9afd02340dd7cf7e9ae517b",
+          "uuid": "6d2764d1-00-bf6bc3422b133d22277cf37a21695689ccac15db",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/company/partners",
+          "urlHash": "7fdbfa479cd3628acd9b2f234a4a0c731a79e5c4",
+          "uuid": "7fdbfa47-00-bf6bc3422b133d22277cf37a21695689ccac15db",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/legal/privacy/privacy-policy",
+          "urlHash": "81172ec3cdc9781c05c52fbd4797cc6af3735ce0",
+          "uuid": "81172ec3-00-ec260e70fd0d109a7b00561467202bbb97cfb965",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/products/updates/",
+          "urlHash": "875863febedf66fb0837148be2830bd8e108d5a9",
+          "uuid": "875863fe-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/pricing",
+          "urlHash": "92bc5fbf9a6ebde4924c76dfb104572f8fb1b026",
+          "uuid": "92bc5fbf-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/events",
+          "urlHash": "9579edc3a2101802951cc3674767eae95cdf2a3c",
+          "uuid": "9579edc3-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/press/mongodb-launches-ai-powered-application-modernization-platform-to-reduce-technical-debt-and-speed-innovation",
+          "urlHash": "9eba2303f9f556f8c3a020431ea17eb3858827c1",
+          "uuid": "9eba2303-00-ec260e70fd0d109a7b00561467202bbb97cfb965",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/company/newsroom/press-releases",
+          "urlHash": "a3ea011c020253276a57c91cab331e6f4f043bb6",
+          "uuid": "a3ea011c-00-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/press/mongodb-inc-announces-mike-berry-as-chief-financial-officer",
+          "urlHash": "b66eee27641845ae8f01c4bb85bd8c1a862f458c",
+          "uuid": "b66eee27-00-ec260e70fd0d109a7b00561467202bbb97cfb965",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/products/self-managed/enterprise-advanced",
+          "urlHash": "bc805b0dd6b448ac7ebd8f4a2b298ba8b53c4aeb",
+          "uuid": "bc805b0d-00-bf6bc3422b133d22277cf37a21695689ccac15db",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/company/our-story",
+          "urlHash": "c84237a8f53ff847b97b019f8ce7574518034c5b",
+          "uuid": "c84237a8-00-bf6bc3422b133d22277cf37a21695689ccac15db",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/press/mongodb-extends-search-and-vector-search-capabilities-to-self-managed-offerings",
+          "urlHash": "dc6d13894f0f20fd9efaa30ce2390e3aa8b54a56",
+          "uuid": "dc6d1389-00-ec260e70fd0d109a7b00561467202bbb97cfb965",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/try/download/enterprise",
+          "urlHash": "dfe8f748a8b954d93e54ad514b0e9f78c91fda65",
+          "uuid": "dfe8f748-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/legal",
+          "urlHash": "e2acfc8395998fa2e3b2975bc8370b9e3efe3c3e",
+          "uuid": "e2acfc83-00-bf6bc3422b133d22277cf37a21695689ccac15db",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/company/sustainability",
+          "urlHash": "e4522fcf63b6b14a0e67af98931e82cfafde0829",
+          "uuid": "e4522fcf-00-bf6bc3422b133d22277cf37a21695689ccac15db",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/events/mongodb-local/london?tck=pencil_banner",
+          "urlHash": "e562ff7fda5f4458a344c2f949f7ff51e8cc67ef",
+          "uuid": "e562ff7f-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/services/support",
+          "urlHash": "e609ec2d93b41fc08fd70d4267b1c48c28f514f6",
+          "uuid": "e609ec2d-00-bf6bc3422b133d22277cf37a21695689ccac15db",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/company/newsroom",
+          "urlHash": "f736ae79caf7aa4dbaa12d6083ab39c2feb34dee",
+          "uuid": "f736ae79-00-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/try/download/community",
+          "urlHash": "f93466b616572e199cf40ce1e85fa9a7e0162378",
+          "uuid": "f93466b6-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/products/platform/atlas-database",
+          "urlHash": "faf72db6ef650ccfe56d2165ac8a800704bca28f",
+          "uuid": "faf72db6-00-bf6bc3422b133d22277cf37a21695689ccac15db",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/docs/atlas/",
+          "urlHash": "ff1aab333cfba4e9f524c4c4b148429e575acb48",
+          "uuid": "ff1aab33-00-83a82527f05c91dcd3a78963f4e76227b679e872",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]"
+        }
+      ],
+      "styles": {
+        "height": 96
+      }
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/tools/relational-migrator",
+          "urlHash": "05b39d48c658a62b45fc848ade480a45d9099238",
+          "uuid": "05b39d48-19-9807b83a0506441db85640cf092f300084aaf8a0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/products/platform",
+          "urlHash": "0ba6b0164477cbc0777c598324d5cdfdb47b1292",
+          "uuid": "0ba6b016-12-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/company/newsroom/news-coverage",
+          "urlHash": "0c81b15ddb29d58af10b623cc3fd50e5e289f024",
+          "uuid": "0c81b15d-05-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/products/updates/version-release",
+          "urlHash": "1077b0ae2f0811e43e620b1a79eb0b526e8d7566",
+          "uuid": "1077b0ae-18-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/press/mongodb-strengthens-foundation-for-ai-applications-with-product-innovations-and-expanded-partner-ecosystem",
+          "urlHash": "18709ec5178e8c13dfc65cae53b68df70641d26e",
+          "uuid": "18709ec5-03-1cd5e60707bc11e5ffed495174408904fc84dcf4",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/press/mongo-db-announces-commitment-to-achieve-fedramp-high-and-impact-level-5-authorizations",
+          "urlHash": "208a0f9d22bdc2c045557b94b9b8d2cde7728968",
+          "uuid": "208a0f9d-03-1cd5e60707bc11e5ffed495174408904fc84dcf4",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/resources",
+          "urlHash": "2ee7151928e224d11fc10227205ada85f09101c9",
+          "uuid": "2ee71519-08-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]"
+        },
+        {
+          "url": "https://www.mongodb.com/company/newsroom/brand-resources",
+          "urlHash": "409c455da7c87d58ab11f8fc20d54f1067b4ea20",
+          "uuid": "409c455d-06-9807b83a0506441db85640cf092f300084aaf8a0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/products/platform/atlas-search",
+          "urlHash": "5858653885902f914e9b2e3ddb7f5729380e1520",
+          "uuid": "58586538-19-9807b83a0506441db85640cf092f300084aaf8a0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/company/values",
+          "urlHash": "59603a3872d08b71e642bebf441798ec70fb497a",
+          "uuid": "59603a38-09-9807b83a0506441db85640cf092f300084aaf8a0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/products/tools/compass",
+          "urlHash": "6d2764d17e72595da9afd02340dd7cf7e9ae517b",
+          "uuid": "6d2764d1-19-9807b83a0506441db85640cf092f300084aaf8a0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/company/partners",
+          "urlHash": "7fdbfa479cd3628acd9b2f234a4a0c731a79e5c4",
+          "uuid": "7fdbfa47-32-9807b83a0506441db85640cf092f300084aaf8a0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/legal/privacy/privacy-policy",
+          "urlHash": "81172ec3cdc9781c05c52fbd4797cc6af3735ce0",
+          "uuid": "81172ec3-01-1cd5e60707bc11e5ffed495174408904fc84dcf4",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/products/updates/",
+          "urlHash": "875863febedf66fb0837148be2830bd8e108d5a9",
+          "uuid": "875863fe-05-10ff6870fe0e1e8555c1dab4170caa3e62155dbd",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.mongodb.com/pricing",
+          "urlHash": "92bc5fbf9a6ebde4924c76dfb104572f8fb1b026",
+          "uuid": "92bc5fbf-16-1cd5e60707bc11e5ffed495174408904fc84dcf4",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/events",
+          "urlHash": "9579edc3a2101802951cc3674767eae95cdf2a3c",
+          "uuid": "9579edc3-07-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]"
+        },
+        {
+          "url": "https://www.mongodb.com/press/mongodb-launches-ai-powered-application-modernization-platform-to-reduce-technical-debt-and-speed-innovation",
+          "urlHash": "9eba2303f9f556f8c3a020431ea17eb3858827c1",
+          "uuid": "9eba2303-03-1cd5e60707bc11e5ffed495174408904fc84dcf4",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/company/newsroom/press-releases",
+          "urlHash": "a3ea011c020253276a57c91cab331e6f4f043bb6",
+          "uuid": "a3ea011c-05-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/press/mongodb-inc-announces-mike-berry-as-chief-financial-officer",
+          "urlHash": "b66eee27641845ae8f01c4bb85bd8c1a862f458c",
+          "uuid": "b66eee27-03-1cd5e60707bc11e5ffed495174408904fc84dcf4",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/products/self-managed/enterprise-advanced",
+          "urlHash": "bc805b0dd6b448ac7ebd8f4a2b298ba8b53c4aeb",
+          "uuid": "bc805b0d-21-9807b83a0506441db85640cf092f300084aaf8a0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/company/our-story",
+          "urlHash": "c84237a8f53ff847b97b019f8ce7574518034c5b",
+          "uuid": "c84237a8-09-9807b83a0506441db85640cf092f300084aaf8a0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/press/mongodb-extends-search-and-vector-search-capabilities-to-self-managed-offerings",
+          "urlHash": "dc6d13894f0f20fd9efaa30ce2390e3aa8b54a56",
+          "uuid": "dc6d1389-03-1cd5e60707bc11e5ffed495174408904fc84dcf4",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/try/download/enterprise",
+          "urlHash": "dfe8f748a8b954d93e54ad514b0e9f78c91fda65",
+          "uuid": "dfe8f748-04-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/legal",
+          "urlHash": "e2acfc8395998fa2e3b2975bc8370b9e3efe3c3e",
+          "uuid": "e2acfc83-04-9807b83a0506441db85640cf092f300084aaf8a0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/company/sustainability",
+          "urlHash": "e4522fcf63b6b14a0e67af98931e82cfafde0829",
+          "uuid": "e4522fcf-34-9807b83a0506441db85640cf092f300084aaf8a0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/events/mongodb-local/london?tck=pencil_banner",
+          "urlHash": "e562ff7fda5f4458a344c2f949f7ff51e8cc67ef",
+          "uuid": "e562ff7f-16-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/services/support",
+          "urlHash": "e609ec2d93b41fc08fd70d4267b1c48c28f514f6",
+          "uuid": "e609ec2d-09-9807b83a0506441db85640cf092f300084aaf8a0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/company/newsroom",
+          "urlHash": "f736ae79caf7aa4dbaa12d6083ab39c2feb34dee",
+          "uuid": "f736ae79-06-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/try/download/community",
+          "urlHash": "f93466b616572e199cf40ce1e85fa9a7e0162378",
+          "uuid": "f93466b6-04-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/products/platform/atlas-database",
+          "urlHash": "faf72db6ef650ccfe56d2165ac8a800704bca28f",
+          "uuid": "faf72db6-21-9807b83a0506441db85640cf092f300084aaf8a0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/footer[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/docs/atlas/",
+          "urlHash": "ff1aab333cfba4e9f524c4c4b148429e575acb48",
+          "uuid": "ff1aab33-10-741be20b99c43ed998d3913da4a18a48ece95177",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]"
+        }
+      ],
+      "styles": {
+        "background": "rgb(6, 22, 33) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Cards",
+      "cluster": 1,
+      "source": "Cards",
+      "target": "Cards (cards1)",
+      "key": "cards1",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/pricing",
+          "urlHash": "92bc5fbf9a6ebde4924c76dfb104572f8fb1b026",
+          "uuid": "92bc5fbf-08-cdfa451e46115e4458b4b08925d93455967e6f9e",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[2]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 2,
+      "source": "Columns",
+      "target": "Columns (columns2)",
+      "key": "columns2",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/tools/relational-migrator",
+          "urlHash": "05b39d48c658a62b45fc848ade480a45d9099238",
+          "uuid": "05b39d48-18-f845b4cb2cf0fb34e7938dde0e837addd358c1fa",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[10]/div[1]/div[2]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.mongodb.com/products/platform/atlas-search",
+          "urlHash": "5858653885902f914e9b2e3ddb7f5729380e1520",
+          "uuid": "58586538-18-a95504e8002cf2732651887d99ae6283dec44186",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[17]/div[1]/div[2]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.mongodb.com/products/tools/compass",
+          "urlHash": "6d2764d17e72595da9afd02340dd7cf7e9ae517b",
+          "uuid": "6d2764d1-18-a95504e8002cf2732651887d99ae6283dec44186",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[17]/div[1]/div[2]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.mongodb.com/products/self-managed/enterprise-advanced",
+          "urlHash": "bc805b0dd6b448ac7ebd8f4a2b298ba8b53c4aeb",
+          "uuid": "bc805b0d-20-34d653bdac57a8d1f64170b5db7439af7f961181",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[19]/div[1]/div[2]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.mongodb.com/products/platform/atlas-database",
+          "urlHash": "faf72db6ef650ccfe56d2165ac8a800704bca28f",
+          "uuid": "faf72db6-20-7602ee800c7d42379be512526f398c05fc11250f",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[20]/div[1]/div[2]",
+          "section": "section-4"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 3,
+      "source": "Columns",
+      "target": "Columns (columns3)",
+      "key": "columns3",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/tools/relational-migrator",
+          "urlHash": "05b39d48c658a62b45fc848ade480a45d9099238",
+          "uuid": "05b39d48-13-d4003b2d024a133de9450356341ef42527e9082c",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[6]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.mongodb.com/products/platform/atlas-search",
+          "urlHash": "5858653885902f914e9b2e3ddb7f5729380e1520",
+          "uuid": "58586538-12-d5c327998df690da47f5a5a8a0b3fc71c09f512c",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[13]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.mongodb.com/products/tools/compass",
+          "urlHash": "6d2764d17e72595da9afd02340dd7cf7e9ae517b",
+          "uuid": "6d2764d1-12-d5c327998df690da47f5a5a8a0b3fc71c09f512c",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[13]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 4,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages4)",
+      "key": "cardsNoImages4",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/updates/version-release",
+          "urlHash": "1077b0ae2f0811e43e620b1a79eb0b526e8d7566",
+          "uuid": "1077b0ae-05-e2f471b3217c62b8b9d8d9dec4f1d343470d20a6",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/section[1]/div[4]",
+          "section": "section-11"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 5,
+      "source": "Hero",
+      "target": "Hero (hero5)",
+      "key": "hero5",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/platform",
+          "urlHash": "0ba6b0164477cbc0777c598324d5cdfdb47b1292",
+          "uuid": "0ba6b016-02-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 6,
+      "source": "Accordion",
+      "target": "Accordion (accordion6)",
+      "key": "accordion6",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/company/sustainability",
+          "urlHash": "e4522fcf63b6b14a0e67af98931e82cfafde0829",
+          "uuid": "e4522fcf-28-57abad3c7a2fc0dca62a5626f6fbd6fd19717659",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[27]/div[2]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.mongodb.com/company/sustainability",
+          "urlHash": "e4522fcf63b6b14a0e67af98931e82cfafde0829",
+          "uuid": "e4522fcf-29-c6a2072a94872790ef588ed17b5850f372f5ba39",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[27]/div[2]/div[1]/div[2]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.mongodb.com/company/sustainability",
+          "urlHash": "e4522fcf63b6b14a0e67af98931e82cfafde0829",
+          "uuid": "e4522fcf-30-12f0ca0eef76861f64c7368f5b7d0b3dd0bee8f5",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[27]/div[2]/div[1]/div[3]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.mongodb.com/company/sustainability",
+          "urlHash": "e4522fcf63b6b14a0e67af98931e82cfafde0829",
+          "uuid": "e4522fcf-31-b29927d7d837848cd91742805c8590eed59f4b96",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[27]/div[2]/div[1]/div[4]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 7,
+      "source": "Cards",
+      "target": "Cards (cards7)",
+      "key": "cards7",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/tools/relational-migrator",
+          "urlHash": "05b39d48c658a62b45fc848ade480a45d9099238",
+          "uuid": "05b39d48-16-79726255b501eec8e629ed1828db4daf26a9bc74",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[9]"
+        },
+        {
+          "url": "https://www.mongodb.com/company/values",
+          "urlHash": "59603a3872d08b71e642bebf441798ec70fb497a",
+          "uuid": "59603a38-08-d74b4444044822e7aa41339402551cc00236a33b",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[3]"
+        },
+        {
+          "url": "https://www.mongodb.com/products/tools/compass",
+          "urlHash": "6d2764d17e72595da9afd02340dd7cf7e9ae517b",
+          "uuid": "6d2764d1-14-2c04cc593160f2ed3d06242f4d188e98288e2bfe",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[15]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.mongodb.com/company/our-story",
+          "urlHash": "c84237a8f53ff847b97b019f8ce7574518034c5b",
+          "uuid": "c84237a8-08-d74b4444044822e7aa41339402551cc00236a33b",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[3]"
+        },
+        {
+          "url": "https://www.mongodb.com/company/sustainability",
+          "urlHash": "e4522fcf63b6b14a0e67af98931e82cfafde0829",
+          "uuid": "e4522fcf-05-03ac9e6f006d5714c6a465d9da2caa7119a4d70b",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.mongodb.com/company/sustainability",
+          "urlHash": "e4522fcf63b6b14a0e67af98931e82cfafde0829",
+          "uuid": "e4522fcf-08-17a8b296d154786c4989531e8167a6261ba00516",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[9]"
+        },
+        {
+          "url": "https://www.mongodb.com/company/sustainability",
+          "urlHash": "e4522fcf63b6b14a0e67af98931e82cfafde0829",
+          "uuid": "e4522fcf-14-2c04cc593160f2ed3d06242f4d188e98288e2bfe",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[15]"
+        },
+        {
+          "url": "https://www.mongodb.com/company/sustainability",
+          "urlHash": "e4522fcf63b6b14a0e67af98931e82cfafde0829",
+          "uuid": "e4522fcf-26-37955deb3a199e8ac549d1e9c56f294f4adb5426",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[26]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.mongodb.com/services/support",
+          "urlHash": "e609ec2d93b41fc08fd70d4267b1c48c28f514f6",
+          "uuid": "e609ec2d-07-5eb341fb711363b184401aa7848219724495fe02",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[5]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.mongodb.com/products/platform/atlas-database",
+          "urlHash": "faf72db6ef650ccfe56d2165ac8a800704bca28f",
+          "uuid": "faf72db6-14-24187f61397738895fba63759872fa227e5c9a08",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[16]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 8,
+      "source": "Hero",
+      "target": "Hero (hero8)",
+      "key": "hero8",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/platform/atlas-search",
+          "urlHash": "5858653885902f914e9b2e3ddb7f5729380e1520",
+          "uuid": "58586538-02-31a136b00ee4d368075f69906d1d33fc1ab5c432",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.mongodb.com/products/tools/compass",
+          "urlHash": "6d2764d17e72595da9afd02340dd7cf7e9ae517b",
+          "uuid": "6d2764d1-02-31a136b00ee4d368075f69906d1d33fc1ab5c432",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.mongodb.com/products/self-managed/enterprise-advanced",
+          "urlHash": "bc805b0dd6b448ac7ebd8f4a2b298ba8b53c4aeb",
+          "uuid": "bc805b0d-02-31a136b00ee4d368075f69906d1d33fc1ab5c432",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.mongodb.com/products/platform/atlas-database",
+          "urlHash": "faf72db6ef650ccfe56d2165ac8a800704bca28f",
+          "uuid": "faf72db6-02-31a136b00ee4d368075f69906d1d33fc1ab5c432",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 9,
+      "source": "Header",
+      "target": "Header (header9)",
+      "key": "header9",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/docs/atlas/",
+          "urlHash": "ff1aab333cfba4e9f524c4c4b148429e575acb48",
+          "uuid": "ff1aab33-00-83a82527f05c91dcd3a78963f4e76227b679e872",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 10,
+      "source": "Hero",
+      "target": "Hero (hero10)",
+      "key": "hero10",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/platform",
+          "urlHash": "0ba6b0164477cbc0777c598324d5cdfdb47b1292",
+          "uuid": "0ba6b016-03-342d26f6b7644f1bdeaca8f10163e098616c0b86",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/section[1]",
+          "section": "section-6"
+        },
+        {
+          "url": "https://www.mongodb.com/events/mongodb-local/london?tck=pencil_banner",
+          "urlHash": "e562ff7fda5f4458a344c2f949f7ff51e8cc67ef",
+          "uuid": "e562ff7f-06-9be17e98f5c1fc40bd94f712d3d4aa873e331ad5",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/section[3]",
+          "section": "section-24"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 11,
+      "source": "Columns",
+      "target": "Columns (columns11)",
+      "key": "columns11",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/company/partners",
+          "urlHash": "7fdbfa479cd3628acd9b2f234a4a0c731a79e5c4",
+          "uuid": "7fdbfa47-10-7251892937420804fa242df27efb9b16ac8bac6c",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.mongodb.com/company/partners",
+          "urlHash": "7fdbfa479cd3628acd9b2f234a4a0c731a79e5c4",
+          "uuid": "7fdbfa47-12-5cb0a9b7c48bd8246a868d643d378b5a4a6c283c",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/section[1]/div[4]"
+        },
+        {
+          "url": "https://www.mongodb.com/company/sustainability",
+          "urlHash": "e4522fcf63b6b14a0e67af98931e82cfafde0829",
+          "uuid": "e4522fcf-07-6dd1effeee3e10f541262b4e17ab83cd3e19ec7a",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[8]"
+        },
+        {
+          "url": "https://www.mongodb.com/company/sustainability",
+          "urlHash": "e4522fcf63b6b14a0e67af98931e82cfafde0829",
+          "uuid": "e4522fcf-10-c08422151deb50b8cd34085a2290e0d576e0dec0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[11]"
+        },
+        {
+          "url": "https://www.mongodb.com/company/sustainability",
+          "urlHash": "e4522fcf63b6b14a0e67af98931e82cfafde0829",
+          "uuid": "e4522fcf-13-9e55c8a1ea956e9731973a62221908202bfa4eb7",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[14]"
+        },
+        {
+          "url": "https://www.mongodb.com/company/sustainability",
+          "urlHash": "e4522fcf63b6b14a0e67af98931e82cfafde0829",
+          "uuid": "e4522fcf-23-09eef4dc31548a9485b1d72a202c69eee79f5f59",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[23]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 12,
+      "source": "Cards",
+      "target": "Cards (cards12)",
+      "key": "cards12",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/resources",
+          "urlHash": "2ee7151928e224d11fc10227205ada85f09101c9",
+          "uuid": "2ee71519-04-08a8ecf5a5a05a592639f93f732c4973929f905d",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[4]"
+        },
+        {
+          "url": "https://www.mongodb.com/events",
+          "urlHash": "9579edc3a2101802951cc3674767eae95cdf2a3c",
+          "uuid": "9579edc3-04-08a8ecf5a5a05a592639f93f732c4973929f905d",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 13,
+      "source": "Header",
+      "target": "Header (header13)",
+      "key": "header13",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/company/newsroom/brand-resources",
+          "urlHash": "409c455da7c87d58ab11f8fc20d54f1067b4ea20",
+          "uuid": "409c455d-00-bf6bc3422b133d22277cf37a21695689ccac15db",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.mongodb.com/products/platform/atlas-search",
+          "urlHash": "5858653885902f914e9b2e3ddb7f5729380e1520",
+          "uuid": "58586538-00-bf6bc3422b133d22277cf37a21695689ccac15db",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.mongodb.com/company/values",
+          "urlHash": "59603a3872d08b71e642bebf441798ec70fb497a",
+          "uuid": "59603a38-00-bf6bc3422b133d22277cf37a21695689ccac15db",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.mongodb.com/products/tools/compass",
+          "urlHash": "6d2764d17e72595da9afd02340dd7cf7e9ae517b",
+          "uuid": "6d2764d1-00-bf6bc3422b133d22277cf37a21695689ccac15db",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.mongodb.com/products/self-managed/enterprise-advanced",
+          "urlHash": "bc805b0dd6b448ac7ebd8f4a2b298ba8b53c4aeb",
+          "uuid": "bc805b0d-00-bf6bc3422b133d22277cf37a21695689ccac15db",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.mongodb.com/company/our-story",
+          "urlHash": "c84237a8f53ff847b97b019f8ce7574518034c5b",
+          "uuid": "c84237a8-00-bf6bc3422b133d22277cf37a21695689ccac15db",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.mongodb.com/legal",
+          "urlHash": "e2acfc8395998fa2e3b2975bc8370b9e3efe3c3e",
+          "uuid": "e2acfc83-00-bf6bc3422b133d22277cf37a21695689ccac15db",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.mongodb.com/company/sustainability",
+          "urlHash": "e4522fcf63b6b14a0e67af98931e82cfafde0829",
+          "uuid": "e4522fcf-00-bf6bc3422b133d22277cf37a21695689ccac15db",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.mongodb.com/services/support",
+          "urlHash": "e609ec2d93b41fc08fd70d4267b1c48c28f514f6",
+          "uuid": "e609ec2d-00-bf6bc3422b133d22277cf37a21695689ccac15db",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.mongodb.com/products/platform/atlas-database",
+          "urlHash": "faf72db6ef650ccfe56d2165ac8a800704bca28f",
+          "uuid": "faf72db6-00-bf6bc3422b133d22277cf37a21695689ccac15db",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 14,
+      "source": "Columns",
+      "target": "Columns (columns14)",
+      "key": "columns14",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/self-managed/enterprise-advanced",
+          "urlHash": "bc805b0dd6b448ac7ebd8f4a2b298ba8b53c4aeb",
+          "uuid": "bc805b0d-07-17a8b296d154786c4989531e8167a6261ba00516",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[9]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.mongodb.com/products/platform/atlas-database",
+          "urlHash": "faf72db6ef650ccfe56d2165ac8a800704bca28f",
+          "uuid": "faf72db6-10-3f97340e29d11864f53b2e856a12abbeae5d2611",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[12]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 15,
+      "source": "Cards",
+      "target": "Cards (cards15)",
+      "key": "cards15",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/resources",
+          "urlHash": "2ee7151928e224d11fc10227205ada85f09101c9",
+          "uuid": "2ee71519-07-db1fa40839f5bc654152861c9bb67851ee3e7ae1",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[6]/div[1]/section[1]/div[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/events",
+          "urlHash": "9579edc3a2101802951cc3674767eae95cdf2a3c",
+          "uuid": "9579edc3-06-63e727c5c4b1fe5650fee96a2332aa976455cbb3",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[5]/div[1]/section[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 16,
+      "source": "Hero",
+      "target": "Hero (hero16)",
+      "key": "hero16",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/updates/",
+          "urlHash": "875863febedf66fb0837148be2830bd8e108d5a9",
+          "uuid": "875863fe-01-ec260e70fd0d109a7b00561467202bbb97cfb965",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]",
+          "section": "section-15"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 17,
+      "source": "Hero",
+      "target": "Hero (hero17)",
+      "key": "hero17",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/platform/atlas-search",
+          "urlHash": "5858653885902f914e9b2e3ddb7f5729380e1520",
+          "uuid": "58586538-01-1c14ff94910f953f4c4d1498eb5d4f9b522981d6",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/products/tools/compass",
+          "urlHash": "6d2764d17e72595da9afd02340dd7cf7e9ae517b",
+          "uuid": "6d2764d1-01-1c14ff94910f953f4c4d1498eb5d4f9b522981d6",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 18,
+      "source": "Accordion",
+      "target": "Accordion (accordion18)",
+      "key": "accordion18",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/platform/atlas-search",
+          "urlHash": "5858653885902f914e9b2e3ddb7f5729380e1520",
+          "uuid": "58586538-16-a352e715ba30734f7222ef4f5f0ec350413ed119",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[16]/div[2]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.mongodb.com/products/platform/atlas-database",
+          "urlHash": "faf72db6ef650ccfe56d2165ac8a800704bca28f",
+          "uuid": "faf72db6-18-9f799caecc2a87138b614bff76c8969c2b2901e4",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[19]/div[2]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 19,
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/company/values",
+          "urlHash": "59603a3872d08b71e642bebf441798ec70fb497a",
+          "uuid": "59603a38-05-a19d291afc58534e7b5c3d096c2f07528a735cca",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/section[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 20,
+      "source": "Hero",
+      "target": "Hero (hero20)",
+      "key": "hero20",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/try/download/enterprise",
+          "urlHash": "dfe8f748a8b954d93e54ad514b0e9f78c91fda65",
+          "uuid": "dfe8f748-02-342d26f6b7644f1bdeaca8f10163e098616c0b86",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/section[1]",
+          "section": "section-20"
+        },
+        {
+          "url": "https://www.mongodb.com/try/download/community",
+          "urlHash": "f93466b616572e199cf40ce1e85fa9a7e0162378",
+          "uuid": "f93466b6-02-342d26f6b7644f1bdeaca8f10163e098616c0b86",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/section[1]",
+          "section": "section-20"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 21,
+      "source": "Columns",
+      "target": "Columns (columns21)",
+      "key": "columns21",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/tools/relational-migrator",
+          "urlHash": "05b39d48c658a62b45fc848ade480a45d9099238",
+          "uuid": "05b39d48-05-68ef4786dffa5e2fcd1fd3b3dcb5b824719b405b",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/section[1]/div[1]/div[1]/div[4]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.mongodb.com/company/values",
+          "urlHash": "59603a3872d08b71e642bebf441798ec70fb497a",
+          "uuid": "59603a38-04-2178229dcc280c8d5fcd38bd2369c1f1ecac019c",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/section[1]/div[1]/div[1]/div[3]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.mongodb.com/company/partners",
+          "urlHash": "7fdbfa479cd3628acd9b2f234a4a0c731a79e5c4",
+          "uuid": "7fdbfa47-05-68ef4786dffa5e2fcd1fd3b3dcb5b824719b405b",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/section[1]/div[1]/div[1]/div[4]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.mongodb.com/company/our-story",
+          "urlHash": "c84237a8f53ff847b97b019f8ce7574518034c5b",
+          "uuid": "c84237a8-04-2178229dcc280c8d5fcd38bd2369c1f1ecac019c",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/section[1]/div[1]/div[1]/div[3]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 22,
+      "source": "Columns",
+      "target": "Columns (columns22)",
+      "key": "columns22",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/tools/relational-migrator",
+          "urlHash": "05b39d48c658a62b45fc848ade480a45d9099238",
+          "uuid": "05b39d48-19-9807b83a0506441db85640cf092f300084aaf8a0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/footer[1]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.mongodb.com/products/platform",
+          "urlHash": "0ba6b0164477cbc0777c598324d5cdfdb47b1292",
+          "uuid": "0ba6b016-12-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.mongodb.com/company/newsroom/news-coverage",
+          "urlHash": "0c81b15ddb29d58af10b623cc3fd50e5e289f024",
+          "uuid": "0c81b15d-05-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.mongodb.com/products/updates/version-release",
+          "urlHash": "1077b0ae2f0811e43e620b1a79eb0b526e8d7566",
+          "uuid": "1077b0ae-18-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.mongodb.com/company/newsroom/brand-resources",
+          "urlHash": "409c455da7c87d58ab11f8fc20d54f1067b4ea20",
+          "uuid": "409c455d-06-9807b83a0506441db85640cf092f300084aaf8a0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/footer[1]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.mongodb.com/products/platform/atlas-search",
+          "urlHash": "5858653885902f914e9b2e3ddb7f5729380e1520",
+          "uuid": "58586538-19-9807b83a0506441db85640cf092f300084aaf8a0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/footer[1]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.mongodb.com/company/values",
+          "urlHash": "59603a3872d08b71e642bebf441798ec70fb497a",
+          "uuid": "59603a38-09-9807b83a0506441db85640cf092f300084aaf8a0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/footer[1]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.mongodb.com/products/tools/compass",
+          "urlHash": "6d2764d17e72595da9afd02340dd7cf7e9ae517b",
+          "uuid": "6d2764d1-19-9807b83a0506441db85640cf092f300084aaf8a0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/footer[1]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.mongodb.com/company/partners",
+          "urlHash": "7fdbfa479cd3628acd9b2f234a4a0c731a79e5c4",
+          "uuid": "7fdbfa47-32-9807b83a0506441db85640cf092f300084aaf8a0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/footer[1]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.mongodb.com/pricing",
+          "urlHash": "92bc5fbf9a6ebde4924c76dfb104572f8fb1b026",
+          "uuid": "92bc5fbf-16-1cd5e60707bc11e5ffed495174408904fc84dcf4",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.mongodb.com/company/newsroom/press-releases",
+          "urlHash": "a3ea011c020253276a57c91cab331e6f4f043bb6",
+          "uuid": "a3ea011c-05-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.mongodb.com/products/self-managed/enterprise-advanced",
+          "urlHash": "bc805b0dd6b448ac7ebd8f4a2b298ba8b53c4aeb",
+          "uuid": "bc805b0d-21-9807b83a0506441db85640cf092f300084aaf8a0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/footer[1]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.mongodb.com/company/our-story",
+          "urlHash": "c84237a8f53ff847b97b019f8ce7574518034c5b",
+          "uuid": "c84237a8-09-9807b83a0506441db85640cf092f300084aaf8a0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/footer[1]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.mongodb.com/legal",
+          "urlHash": "e2acfc8395998fa2e3b2975bc8370b9e3efe3c3e",
+          "uuid": "e2acfc83-04-9807b83a0506441db85640cf092f300084aaf8a0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/footer[1]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.mongodb.com/company/sustainability",
+          "urlHash": "e4522fcf63b6b14a0e67af98931e82cfafde0829",
+          "uuid": "e4522fcf-34-9807b83a0506441db85640cf092f300084aaf8a0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/footer[1]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.mongodb.com/services/support",
+          "urlHash": "e609ec2d93b41fc08fd70d4267b1c48c28f514f6",
+          "uuid": "e609ec2d-09-9807b83a0506441db85640cf092f300084aaf8a0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/footer[1]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.mongodb.com/company/newsroom",
+          "urlHash": "f736ae79caf7aa4dbaa12d6083ab39c2feb34dee",
+          "uuid": "f736ae79-06-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.mongodb.com/products/platform/atlas-database",
+          "urlHash": "faf72db6ef650ccfe56d2165ac8a800704bca28f",
+          "uuid": "faf72db6-21-9807b83a0506441db85640cf092f300084aaf8a0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/footer[1]",
+          "section": "section-5"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 23,
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/pricing",
+          "urlHash": "92bc5fbf9a6ebde4924c76dfb104572f8fb1b026",
+          "uuid": "92bc5fbf-13-023b72f460b19f33e424235fe551430b80c36bd2",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[10]",
+          "section": "section-17"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 24,
+      "source": "Hero",
+      "target": "Hero (hero24)",
+      "key": "hero24",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/pricing",
+          "urlHash": "92bc5fbf9a6ebde4924c76dfb104572f8fb1b026",
+          "uuid": "92bc5fbf-15-05c619ea6eb3c21e7cfd3c973467c5e29cd107d6",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/section[2]",
+          "section": "section-18"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 25,
+      "source": "Accordion",
+      "target": "Accordion (accordion25)",
+      "key": "accordion25",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/pricing",
+          "urlHash": "92bc5fbf9a6ebde4924c76dfb104572f8fb1b026",
+          "uuid": "92bc5fbf-14-e0526e689da0f9246a7b1461dc75190d7e9cee23",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[11]",
+          "section": "section-17"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 26,
+      "source": "Accordion",
+      "target": "Accordion (accordion26)",
+      "key": "accordion26",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/updates/version-release",
+          "urlHash": "1077b0ae2f0811e43e620b1a79eb0b526e8d7566",
+          "uuid": "1077b0ae-15-cb00504032b41e77dfed841119658f61cdcd5f49",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[8]/div[1]/div[3]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 27,
+      "source": "Hero",
+      "target": "Hero (hero27)",
+      "key": "hero27",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/company/newsroom/news-coverage",
+          "urlHash": "0c81b15ddb29d58af10b623cc3fd50e5e289f024",
+          "uuid": "0c81b15d-01-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]",
+          "section": "section-9"
+        },
+        {
+          "url": "https://www.mongodb.com/company/newsroom/press-releases",
+          "urlHash": "a3ea011c020253276a57c91cab331e6f4f043bb6",
+          "uuid": "a3ea011c-01-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]",
+          "section": "section-19"
+        },
+        {
+          "url": "https://www.mongodb.com/company/newsroom",
+          "urlHash": "f736ae79caf7aa4dbaa12d6083ab39c2feb34dee",
+          "uuid": "f736ae79-01-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]",
+          "section": "section-19"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 28,
+      "source": "Cards",
+      "target": "Cards (cards28)",
+      "key": "cards28",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/try/download/community",
+          "urlHash": "f93466b616572e199cf40ce1e85fa9a7e0162378",
+          "uuid": "f93466b6-03-05c619ea6eb3c21e7cfd3c973467c5e29cd107d6",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/section[2]",
+          "section": "section-28"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 29,
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/platform",
+          "urlHash": "0ba6b0164477cbc0777c598324d5cdfdb47b1292",
+          "uuid": "0ba6b016-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.mongodb.com/company/newsroom/news-coverage",
+          "urlHash": "0c81b15ddb29d58af10b623cc3fd50e5e289f024",
+          "uuid": "0c81b15d-00-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.mongodb.com/products/updates/version-release",
+          "urlHash": "1077b0ae2f0811e43e620b1a79eb0b526e8d7566",
+          "uuid": "1077b0ae-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.mongodb.com/press/mongodb-strengthens-foundation-for-ai-applications-with-product-innovations-and-expanded-partner-ecosystem",
+          "urlHash": "18709ec5178e8c13dfc65cae53b68df70641d26e",
+          "uuid": "18709ec5-01-07c557d6636fc1961324aaf292245586a3c75f16",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.mongodb.com/press/mongo-db-announces-commitment-to-achieve-fedramp-high-and-impact-level-5-authorizations",
+          "urlHash": "208a0f9d22bdc2c045557b94b9b8d2cde7728968",
+          "uuid": "208a0f9d-01-07c557d6636fc1961324aaf292245586a3c75f16",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.mongodb.com/pricing",
+          "urlHash": "92bc5fbf9a6ebde4924c76dfb104572f8fb1b026",
+          "uuid": "92bc5fbf-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.mongodb.com/press/mongodb-launches-ai-powered-application-modernization-platform-to-reduce-technical-debt-and-speed-innovation",
+          "urlHash": "9eba2303f9f556f8c3a020431ea17eb3858827c1",
+          "uuid": "9eba2303-01-07c557d6636fc1961324aaf292245586a3c75f16",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.mongodb.com/company/newsroom/press-releases",
+          "urlHash": "a3ea011c020253276a57c91cab331e6f4f043bb6",
+          "uuid": "a3ea011c-00-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.mongodb.com/press/mongodb-inc-announces-mike-berry-as-chief-financial-officer",
+          "urlHash": "b66eee27641845ae8f01c4bb85bd8c1a862f458c",
+          "uuid": "b66eee27-01-07c557d6636fc1961324aaf292245586a3c75f16",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.mongodb.com/press/mongodb-extends-search-and-vector-search-capabilities-to-self-managed-offerings",
+          "urlHash": "dc6d13894f0f20fd9efaa30ce2390e3aa8b54a56",
+          "uuid": "dc6d1389-01-07c557d6636fc1961324aaf292245586a3c75f16",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.mongodb.com/try/download/enterprise",
+          "urlHash": "dfe8f748a8b954d93e54ad514b0e9f78c91fda65",
+          "uuid": "dfe8f748-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.mongodb.com/events/mongodb-local/london?tck=pencil_banner",
+          "urlHash": "e562ff7fda5f4458a344c2f949f7ff51e8cc67ef",
+          "uuid": "e562ff7f-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.mongodb.com/company/newsroom",
+          "urlHash": "f736ae79caf7aa4dbaa12d6083ab39c2feb34dee",
+          "uuid": "f736ae79-00-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.mongodb.com/try/download/community",
+          "urlHash": "f93466b616572e199cf40ce1e85fa9a7e0162378",
+          "uuid": "f93466b6-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 30,
+      "source": "Hero",
+      "target": "Hero (hero30)",
+      "key": "hero30",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/docs/atlas/",
+          "urlHash": "ff1aab333cfba4e9f524c4c4b148429e575acb48",
+          "uuid": "ff1aab33-08-d46e6c413d87d0246fe8c6ea152a908b819a3284",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/main[1]/section[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 31,
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/updates/",
+          "urlHash": "875863febedf66fb0837148be2830bd8e108d5a9",
+          "uuid": "875863fe-04-d72caa907dc624342957e5b0bf1f3f76c63d7ee7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 32,
+      "source": "Columns",
+      "target": "Columns (columns32)",
+      "key": "columns32",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/company/newsroom",
+          "urlHash": "f736ae79caf7aa4dbaa12d6083ab39c2feb34dee",
+          "uuid": "f736ae79-05-b6c8f2a81e551a0a81df8a3e3c63ed2103d9d8c9",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[2]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 33,
+      "source": "Cards",
+      "target": "Cards (cards33)",
+      "key": "cards33",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/platform",
+          "urlHash": "0ba6b0164477cbc0777c598324d5cdfdb47b1292",
+          "uuid": "0ba6b016-05-05c619ea6eb3c21e7cfd3c973467c5e29cd107d6",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/section[2]",
+          "section": "section-7"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 34,
+      "source": "Columns",
+      "target": "Columns (columns34)",
+      "key": "columns34",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/pricing",
+          "urlHash": "92bc5fbf9a6ebde4924c76dfb104572f8fb1b026",
+          "uuid": "92bc5fbf-02-342d26f6b7644f1bdeaca8f10163e098616c0b86",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/section[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 35,
+      "source": "Columns",
+      "target": "Columns (columns35)",
+      "key": "columns35",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/company/partners",
+          "urlHash": "7fdbfa479cd3628acd9b2f234a4a0c731a79e5c4",
+          "uuid": "7fdbfa47-21-2a1c470388365a18632af6d33a6caa78df5ea705",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[10]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/company/partners",
+          "urlHash": "7fdbfa479cd3628acd9b2f234a4a0c731a79e5c4",
+          "uuid": "7fdbfa47-22-9fd9b898023e798860d8ff7b63d528b201a24a29",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[11]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 36,
+      "source": "Header",
+      "target": "Header (header36)",
+      "key": "header36",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/resources",
+          "urlHash": "2ee7151928e224d11fc10227205ada85f09101c9",
+          "uuid": "2ee71519-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/events",
+          "urlHash": "9579edc3a2101802951cc3674767eae95cdf2a3c",
+          "uuid": "9579edc3-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 37,
+      "source": "Columns",
+      "target": "Columns (columns37)",
+      "key": "columns37",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/updates/",
+          "urlHash": "875863febedf66fb0837148be2830bd8e108d5a9",
+          "uuid": "875863fe-05-10ff6870fe0e1e8555c1dab4170caa3e62155dbd",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Search",
+      "cluster": 38,
+      "source": "Search",
+      "target": "Search (search38)",
+      "key": "search38",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/docs/atlas/",
+          "urlHash": "ff1aab333cfba4e9f524c4c4b148429e575acb48",
+          "uuid": "ff1aab33-07-ca37e84cd149eae87ab9124dce2ad6d6d5a7bcab",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 39,
+      "source": "Columns",
+      "target": "Columns (columns39)",
+      "key": "columns39",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/platform/atlas-search",
+          "urlHash": "5858653885902f914e9b2e3ddb7f5729380e1520",
+          "uuid": "58586538-06-6dd1effeee3e10f541262b4e17ab83cd3e19ec7a",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[8]"
+        },
+        {
+          "url": "https://www.mongodb.com/products/platform/atlas-search",
+          "urlHash": "5858653885902f914e9b2e3ddb7f5729380e1520",
+          "uuid": "58586538-07-17a8b296d154786c4989531e8167a6261ba00516",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[9]"
+        },
+        {
+          "url": "https://www.mongodb.com/products/platform/atlas-search",
+          "urlHash": "5858653885902f914e9b2e3ddb7f5729380e1520",
+          "uuid": "58586538-08-afc1f0cd23624b0073eead0d2f095ed3b9c10f44",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[10]"
+        },
+        {
+          "url": "https://www.mongodb.com/products/tools/compass",
+          "urlHash": "6d2764d17e72595da9afd02340dd7cf7e9ae517b",
+          "uuid": "6d2764d1-06-6dd1effeee3e10f541262b4e17ab83cd3e19ec7a",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[8]"
+        },
+        {
+          "url": "https://www.mongodb.com/products/tools/compass",
+          "urlHash": "6d2764d17e72595da9afd02340dd7cf7e9ae517b",
+          "uuid": "6d2764d1-08-afc1f0cd23624b0073eead0d2f095ed3b9c10f44",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[10]"
+        },
+        {
+          "url": "https://www.mongodb.com/products/self-managed/enterprise-advanced",
+          "urlHash": "bc805b0dd6b448ac7ebd8f4a2b298ba8b53c4aeb",
+          "uuid": "bc805b0d-04-03ac9e6f006d5714c6a465d9da2caa7119a4d70b",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]"
+        },
+        {
+          "url": "https://www.mongodb.com/products/self-managed/enterprise-advanced",
+          "urlHash": "bc805b0dd6b448ac7ebd8f4a2b298ba8b53c4aeb",
+          "uuid": "bc805b0d-05-25e9910beb5b9546c70f945544f8e1f90e53689f",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[7]"
+        },
+        {
+          "url": "https://www.mongodb.com/products/self-managed/enterprise-advanced",
+          "urlHash": "bc805b0dd6b448ac7ebd8f4a2b298ba8b53c4aeb",
+          "uuid": "bc805b0d-06-6dd1effeee3e10f541262b4e17ab83cd3e19ec7a",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[8]"
+        },
+        {
+          "url": "https://www.mongodb.com/products/platform/atlas-database",
+          "urlHash": "faf72db6ef650ccfe56d2165ac8a800704bca28f",
+          "uuid": "faf72db6-07-17a8b296d154786c4989531e8167a6261ba00516",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[9]"
+        },
+        {
+          "url": "https://www.mongodb.com/products/platform/atlas-database",
+          "urlHash": "faf72db6ef650ccfe56d2165ac8a800704bca28f",
+          "uuid": "faf72db6-09-c08422151deb50b8cd34085a2290e0d576e0dec0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[11]"
+        }
+      ]
+    },
+    {
+      "name": "Table (bordered)",
+      "cluster": 40,
+      "source": "Table (bordered)",
+      "target": "Table (bordered, tableBordered40)",
+      "key": "tableBordered40",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/pricing",
+          "urlHash": "92bc5fbf9a6ebde4924c76dfb104572f8fb1b026",
+          "uuid": "92bc5fbf-06-f9e4029976501fb0f8fc0933c3064ffa8e0adf08",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[15]/mdb-modal[1]/div[1]/div[1]/section[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 41,
+      "source": "Cards",
+      "target": "Cards (cards41)",
+      "key": "cards41",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/company/newsroom",
+          "urlHash": "f736ae79caf7aa4dbaa12d6083ab39c2feb34dee",
+          "uuid": "f736ae79-03-4e74b9bf9f7d4a529dd9ad90445c271e68ad92ba",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[2]",
+          "section": "section-10"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 42,
+      "source": "Header",
+      "target": "Header (header42)",
+      "key": "header42",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/platform",
+          "urlHash": "0ba6b0164477cbc0777c598324d5cdfdb47b1292",
+          "uuid": "0ba6b016-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.mongodb.com/press/mongodb-strengthens-foundation-for-ai-applications-with-product-innovations-and-expanded-partner-ecosystem",
+          "urlHash": "18709ec5178e8c13dfc65cae53b68df70641d26e",
+          "uuid": "18709ec5-00-ec260e70fd0d109a7b00561467202bbb97cfb965",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.mongodb.com/press/mongo-db-announces-commitment-to-achieve-fedramp-high-and-impact-level-5-authorizations",
+          "urlHash": "208a0f9d22bdc2c045557b94b9b8d2cde7728968",
+          "uuid": "208a0f9d-00-ec260e70fd0d109a7b00561467202bbb97cfb965",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.mongodb.com/press/mongodb-launches-ai-powered-application-modernization-platform-to-reduce-technical-debt-and-speed-innovation",
+          "urlHash": "9eba2303f9f556f8c3a020431ea17eb3858827c1",
+          "uuid": "9eba2303-00-ec260e70fd0d109a7b00561467202bbb97cfb965",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.mongodb.com/press/mongodb-inc-announces-mike-berry-as-chief-financial-officer",
+          "urlHash": "b66eee27641845ae8f01c4bb85bd8c1a862f458c",
+          "uuid": "b66eee27-00-ec260e70fd0d109a7b00561467202bbb97cfb965",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.mongodb.com/press/mongodb-extends-search-and-vector-search-capabilities-to-self-managed-offerings",
+          "urlHash": "dc6d13894f0f20fd9efaa30ce2390e3aa8b54a56",
+          "uuid": "dc6d1389-00-ec260e70fd0d109a7b00561467202bbb97cfb965",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.mongodb.com/try/download/enterprise",
+          "urlHash": "dfe8f748a8b954d93e54ad514b0e9f78c91fda65",
+          "uuid": "dfe8f748-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.mongodb.com/events/mongodb-local/london?tck=pencil_banner",
+          "urlHash": "e562ff7fda5f4458a344c2f949f7ff51e8cc67ef",
+          "uuid": "e562ff7f-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.mongodb.com/try/download/community",
+          "urlHash": "f93466b616572e199cf40ce1e85fa9a7e0162378",
+          "uuid": "f93466b6-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Tabs",
+      "cluster": 43,
+      "source": "Tabs",
+      "target": "Tabs (tabs43)",
+      "key": "tabs43",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/tools/relational-migrator",
+          "urlHash": "05b39d48c658a62b45fc848ade480a45d9099238",
+          "uuid": "05b39d48-12-e1c84e47ce78682368a4670c98ac154b1a8716ff",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[6]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/products/platform/atlas-search",
+          "urlHash": "5858653885902f914e9b2e3ddb7f5729380e1520",
+          "uuid": "58586538-11-7e2d1e9964716d770700883126a695f1c7d2f241",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[13]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.mongodb.com/products/tools/compass",
+          "urlHash": "6d2764d17e72595da9afd02340dd7cf7e9ae517b",
+          "uuid": "6d2764d1-11-7e2d1e9964716d770700883126a695f1c7d2f241",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[13]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 44,
+      "source": "Columns",
+      "target": "Columns (columns44)",
+      "key": "columns44",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/updates/version-release",
+          "urlHash": "1077b0ae2f0811e43e620b1a79eb0b526e8d7566",
+          "uuid": "1077b0ae-03-b80dc095c86ac03cb48ac81e8d0428ab29d53271",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/section[1]/div[2]",
+          "section": "section-11"
+        },
+        {
+          "url": "https://www.mongodb.com/events/mongodb-local/london?tck=pencil_banner",
+          "urlHash": "e562ff7fda5f4458a344c2f949f7ff51e8cc67ef",
+          "uuid": "e562ff7f-09-15cc1395fd7b117b3f753f944caf24005fc1bcb5",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/section[4]/div[2]",
+          "section": "section-25"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 45,
+      "source": "Columns",
+      "target": "Columns (columns45)",
+      "key": "columns45",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/platform",
+          "urlHash": "0ba6b0164477cbc0777c598324d5cdfdb47b1292",
+          "uuid": "0ba6b016-10-8546196ae7c3af639bbcbb07c3cc0d652b020c5a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[3]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 46,
+      "source": "Accordion",
+      "target": "Accordion (accordion46)",
+      "key": "accordion46",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/self-managed/enterprise-advanced",
+          "urlHash": "bc805b0dd6b448ac7ebd8f4a2b298ba8b53c4aeb",
+          "uuid": "bc805b0d-17-5e08abe4ff3873be1079e87d762ad28aca1f8d50",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[18]/div[2]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.mongodb.com/products/self-managed/enterprise-advanced",
+          "urlHash": "bc805b0dd6b448ac7ebd8f4a2b298ba8b53c4aeb",
+          "uuid": "bc805b0d-18-318d8d957a9f6c905a3379cf93f46f11e5f9cda0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[18]/div[2]/div[1]/div[2]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.mongodb.com/company/sustainability",
+          "urlHash": "e4522fcf63b6b14a0e67af98931e82cfafde0829",
+          "uuid": "e4522fcf-32-45f3468f6c644df3c793c382cf2ba22cabf56bc2",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[27]/div[2]/div[1]/div[5]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.mongodb.com/company/sustainability",
+          "urlHash": "e4522fcf63b6b14a0e67af98931e82cfafde0829",
+          "uuid": "e4522fcf-33-17d68cb44669e58f5f01b131d8a2ab8c11543072",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[27]/div[2]/div[1]/div[6]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 47,
+      "source": "Columns",
+      "target": "Columns (columns47)",
+      "key": "columns47",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/company/partners",
+          "urlHash": "7fdbfa479cd3628acd9b2f234a4a0c731a79e5c4",
+          "uuid": "7fdbfa47-24-aaeb0813fdb1e5a533f57738c632d820bc9c4797",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[13]"
+        },
+        {
+          "url": "https://www.mongodb.com/company/partners",
+          "urlHash": "7fdbfa479cd3628acd9b2f234a4a0c731a79e5c4",
+          "uuid": "7fdbfa47-26-bee738b88c1d02b9712ba4c3875d75c937a9b89e",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/section[2]/div[2]"
+        },
+        {
+          "url": "https://www.mongodb.com/products/self-managed/enterprise-advanced",
+          "urlHash": "bc805b0dd6b448ac7ebd8f4a2b298ba8b53c4aeb",
+          "uuid": "bc805b0d-15-f023df84e2b09b1fc30d269c319ed5501f3600b3",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[17]"
+        },
+        {
+          "url": "https://www.mongodb.com/company/sustainability",
+          "urlHash": "e4522fcf63b6b14a0e67af98931e82cfafde0829",
+          "uuid": "e4522fcf-21-e88420fddf33ffdb194065d2708607969c44c37a",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[21]"
+        },
+        {
+          "url": "https://www.mongodb.com/company/sustainability",
+          "urlHash": "e4522fcf63b6b14a0e67af98931e82cfafde0829",
+          "uuid": "e4522fcf-24-450c6fd0614f845f1ad8c23f8ddc552471758bf0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[24]"
+        },
+        {
+          "url": "https://www.mongodb.com/products/platform/atlas-database",
+          "urlHash": "faf72db6ef650ccfe56d2165ac8a800704bca28f",
+          "uuid": "faf72db6-16-1eb0b5435f5913c44dc80820c4f5c9ca1dc7cf0c",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[18]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 48,
+      "source": "Columns",
+      "target": "Columns (columns48)",
+      "key": "columns48",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/resources",
+          "urlHash": "2ee7151928e224d11fc10227205ada85f09101c9",
+          "uuid": "2ee71519-03-be72241cb0cb7627bf4d0e48eca9c555757b4f9d",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[3]"
+        },
+        {
+          "url": "https://www.mongodb.com/events",
+          "urlHash": "9579edc3a2101802951cc3674767eae95cdf2a3c",
+          "uuid": "9579edc3-03-be72241cb0cb7627bf4d0e48eca9c555757b4f9d",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 49,
+      "source": "Hero",
+      "target": "Hero (hero49)",
+      "key": "hero49",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/platform",
+          "urlHash": "0ba6b0164477cbc0777c598324d5cdfdb47b1292",
+          "uuid": "0ba6b016-08-9be17e98f5c1fc40bd94f712d3d4aa873e331ad5",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/section[3]",
+          "section": "section-8"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 50,
+      "source": "Hero",
+      "target": "Hero (hero50)",
+      "key": "hero50",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/platform/atlas-search",
+          "urlHash": "5858653885902f914e9b2e3ddb7f5729380e1520",
+          "uuid": "58586538-03-71d116fe18b017a7ff00f3f6a42c592658d5dd44",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]"
+        },
+        {
+          "url": "https://www.mongodb.com/products/tools/compass",
+          "urlHash": "6d2764d17e72595da9afd02340dd7cf7e9ae517b",
+          "uuid": "6d2764d1-03-71d116fe18b017a7ff00f3f6a42c592658d5dd44",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]"
+        },
+        {
+          "url": "https://www.mongodb.com/products/self-managed/enterprise-advanced",
+          "urlHash": "bc805b0dd6b448ac7ebd8f4a2b298ba8b53c4aeb",
+          "uuid": "bc805b0d-11-a280777039251cea0cda22489e3aa493b11daf2d",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[13]"
+        },
+        {
+          "url": "https://www.mongodb.com/products/platform/atlas-database",
+          "urlHash": "faf72db6ef650ccfe56d2165ac8a800704bca28f",
+          "uuid": "faf72db6-04-03ac9e6f006d5714c6a465d9da2caa7119a4d70b",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 51,
+      "source": "Header",
+      "target": "Header (header51)",
+      "key": "header51",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/tools/relational-migrator",
+          "urlHash": "05b39d48c658a62b45fc848ade480a45d9099238",
+          "uuid": "05b39d48-00-bf6bc3422b133d22277cf37a21695689ccac15db",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.mongodb.com/company/partners",
+          "urlHash": "7fdbfa479cd3628acd9b2f234a4a0c731a79e5c4",
+          "uuid": "7fdbfa47-00-bf6bc3422b133d22277cf37a21695689ccac15db",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 52,
+      "source": "Cards",
+      "target": "Cards (cards52)",
+      "key": "cards52",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/platform/atlas-database",
+          "urlHash": "faf72db6ef650ccfe56d2165ac8a800704bca28f",
+          "uuid": "faf72db6-01-1c14ff94910f953f4c4d1498eb5d4f9b522981d6",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 53,
+      "source": "Accordion",
+      "target": "Accordion (accordion53)",
+      "key": "accordion53",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/company/partners",
+          "urlHash": "7fdbfa479cd3628acd9b2f234a4a0c731a79e5c4",
+          "uuid": "7fdbfa47-31-a97e11afe7677b73bbd36b9fc81f3ebf4acda736",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[15]/div[2]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 54,
+      "source": "Columns",
+      "target": "Columns (columns54)",
+      "key": "columns54",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/try/download/enterprise",
+          "urlHash": "dfe8f748a8b954d93e54ad514b0e9f78c91fda65",
+          "uuid": "dfe8f748-04-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.mongodb.com/events/mongodb-local/london?tck=pencil_banner",
+          "urlHash": "e562ff7fda5f4458a344c2f949f7ff51e8cc67ef",
+          "uuid": "e562ff7f-16-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.mongodb.com/try/download/community",
+          "urlHash": "f93466b616572e199cf40ce1e85fa9a7e0162378",
+          "uuid": "f93466b6-04-43d6b197520051945d433b3004e909ea4e3accb3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]",
+          "section": "section-5"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 55,
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/tools/relational-migrator",
+          "urlHash": "05b39d48c658a62b45fc848ade480a45d9099238",
+          "uuid": "05b39d48-01-4e74b9bf9f7d4a529dd9ad90445c271e68ad92ba",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[2]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.mongodb.com/company/newsroom/brand-resources",
+          "urlHash": "409c455da7c87d58ab11f8fc20d54f1067b4ea20",
+          "uuid": "409c455d-01-4e74b9bf9f7d4a529dd9ad90445c271e68ad92ba",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[2]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.mongodb.com/company/values",
+          "urlHash": "59603a3872d08b71e642bebf441798ec70fb497a",
+          "uuid": "59603a38-01-4e74b9bf9f7d4a529dd9ad90445c271e68ad92ba",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[2]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.mongodb.com/company/partners",
+          "urlHash": "7fdbfa479cd3628acd9b2f234a4a0c731a79e5c4",
+          "uuid": "7fdbfa47-01-4e74b9bf9f7d4a529dd9ad90445c271e68ad92ba",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[2]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.mongodb.com/company/our-story",
+          "urlHash": "c84237a8f53ff847b97b019f8ce7574518034c5b",
+          "uuid": "c84237a8-01-4e74b9bf9f7d4a529dd9ad90445c271e68ad92ba",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[2]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.mongodb.com/legal",
+          "urlHash": "e2acfc8395998fa2e3b2975bc8370b9e3efe3c3e",
+          "uuid": "e2acfc83-01-4e74b9bf9f7d4a529dd9ad90445c271e68ad92ba",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[2]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.mongodb.com/company/sustainability",
+          "urlHash": "e4522fcf63b6b14a0e67af98931e82cfafde0829",
+          "uuid": "e4522fcf-01-4e74b9bf9f7d4a529dd9ad90445c271e68ad92ba",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[2]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.mongodb.com/services/support",
+          "urlHash": "e609ec2d93b41fc08fd70d4267b1c48c28f514f6",
+          "uuid": "e609ec2d-01-4e74b9bf9f7d4a529dd9ad90445c271e68ad92ba",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[2]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 56,
+      "source": "Columns",
+      "target": "Columns (columns56)",
+      "key": "columns56",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/platform/atlas-search",
+          "urlHash": "5858653885902f914e9b2e3ddb7f5729380e1520",
+          "uuid": "58586538-05-25e9910beb5b9546c70f945544f8e1f90e53689f",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[7]"
+        },
+        {
+          "url": "https://www.mongodb.com/products/tools/compass",
+          "urlHash": "6d2764d17e72595da9afd02340dd7cf7e9ae517b",
+          "uuid": "6d2764d1-05-25e9910beb5b9546c70f945544f8e1f90e53689f",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[7]"
+        },
+        {
+          "url": "https://www.mongodb.com/company/partners",
+          "urlHash": "7fdbfa479cd3628acd9b2f234a4a0c731a79e5c4",
+          "uuid": "7fdbfa47-16-5eb341fb711363b184401aa7848219724495fe02",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[5]"
+        },
+        {
+          "url": "https://www.mongodb.com/products/self-managed/enterprise-advanced",
+          "urlHash": "bc805b0dd6b448ac7ebd8f4a2b298ba8b53c4aeb",
+          "uuid": "bc805b0d-03-71d116fe18b017a7ff00f3f6a42c592658d5dd44",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]"
+        },
+        {
+          "url": "https://www.mongodb.com/products/platform/atlas-database",
+          "urlHash": "faf72db6ef650ccfe56d2165ac8a800704bca28f",
+          "uuid": "faf72db6-06-6dd1effeee3e10f541262b4e17ab83cd3e19ec7a",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[8]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 57,
+      "source": "Header",
+      "target": "Header (header57)",
+      "key": "header57",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/pricing",
+          "urlHash": "92bc5fbf9a6ebde4924c76dfb104572f8fb1b026",
+          "uuid": "92bc5fbf-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 58,
+      "source": "Header",
+      "target": "Header (header58)",
+      "key": "header58",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/updates/version-release",
+          "urlHash": "1077b0ae2f0811e43e620b1a79eb0b526e8d7566",
+          "uuid": "1077b0ae-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 59,
+      "source": "Carousel",
+      "target": "Carousel (carousel59)",
+      "key": "carousel59",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/self-managed/enterprise-advanced",
+          "urlHash": "bc805b0dd6b448ac7ebd8f4a2b298ba8b53c4aeb",
+          "uuid": "bc805b0d-09-c08422151deb50b8cd34085a2290e0d576e0dec0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[11]"
+        },
+        {
+          "url": "https://www.mongodb.com/products/platform/atlas-database",
+          "urlHash": "faf72db6ef650ccfe56d2165ac8a800704bca28f",
+          "uuid": "faf72db6-12-9e55c8a1ea956e9731973a62221908202bfa4eb7",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[14]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 60,
+      "source": "Cards",
+      "target": "Cards (cards60)",
+      "key": "cards60",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/updates/version-release",
+          "urlHash": "1077b0ae2f0811e43e620b1a79eb0b526e8d7566",
+          "uuid": "1077b0ae-08-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 61,
+      "source": "Columns",
+      "target": "Columns (columns61)",
+      "key": "columns61",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/platform",
+          "urlHash": "0ba6b0164477cbc0777c598324d5cdfdb47b1292",
+          "uuid": "0ba6b016-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 62,
+      "source": "Cards",
+      "target": "Cards (cards62)",
+      "key": "cards62",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/platform/atlas-search",
+          "urlHash": "5858653885902f914e9b2e3ddb7f5729380e1520",
+          "uuid": "58586538-14-2c04cc593160f2ed3d06242f4d188e98288e2bfe",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[15]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.mongodb.com/products/self-managed/enterprise-advanced",
+          "urlHash": "bc805b0dd6b448ac7ebd8f4a2b298ba8b53c4aeb",
+          "uuid": "bc805b0d-13-2c04cc593160f2ed3d06242f4d188e98288e2bfe",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[15]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.mongodb.com/services/support",
+          "urlHash": "e609ec2d93b41fc08fd70d4267b1c48c28f514f6",
+          "uuid": "e609ec2d-03-0d398ac70cffbc0e081b7f54c79083312412e3ad",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.mongodb.com/services/support",
+          "urlHash": "e609ec2d93b41fc08fd70d4267b1c48c28f514f6",
+          "uuid": "e609ec2d-05-d74b4444044822e7aa41339402551cc00236a33b",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[3]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 63,
+      "source": "Columns",
+      "target": "Columns (columns63)",
+      "key": "columns63",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/company/sustainability",
+          "urlHash": "e4522fcf63b6b14a0e67af98931e82cfafde0829",
+          "uuid": "e4522fcf-02-d5fc3d9486bbf512afdb4d6200259f86942c1a70",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.mongodb.com/services/support",
+          "urlHash": "e609ec2d93b41fc08fd70d4267b1c48c28f514f6",
+          "uuid": "e609ec2d-02-d5fc3d9486bbf512afdb4d6200259f86942c1a70",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 64,
+      "source": "Cards",
+      "target": "Cards (cards64)",
+      "key": "cards64",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/events/mongodb-local/london?tck=pencil_banner",
+          "urlHash": "e562ff7fda5f4458a344c2f949f7ff51e8cc67ef",
+          "uuid": "e562ff7f-05-05c619ea6eb3c21e7cfd3c973467c5e29cd107d6",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/section[2]",
+          "section": "section-23"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 65,
+      "source": "Columns",
+      "target": "Columns (columns65)",
+      "key": "columns65",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/platform/atlas-database",
+          "urlHash": "faf72db6ef650ccfe56d2165ac8a800704bca28f",
+          "uuid": "faf72db6-03-71d116fe18b017a7ff00f3f6a42c592658d5dd44",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 66,
+      "source": "Columns",
+      "target": "Columns (columns66)",
+      "key": "columns66",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/resources",
+          "urlHash": "2ee7151928e224d11fc10227205ada85f09101c9",
+          "uuid": "2ee71519-08-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.mongodb.com/events",
+          "urlHash": "9579edc3a2101802951cc3674767eae95cdf2a3c",
+          "uuid": "9579edc3-07-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]",
+          "section": "section-5"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 67,
+      "source": "Columns",
+      "target": "Columns (columns67)",
+      "key": "columns67",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/tools/compass",
+          "urlHash": "6d2764d17e72595da9afd02340dd7cf7e9ae517b",
+          "uuid": "6d2764d1-07-17a8b296d154786c4989531e8167a6261ba00516",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[9]"
+        },
+        {
+          "url": "https://www.mongodb.com/products/platform/atlas-database",
+          "urlHash": "faf72db6ef650ccfe56d2165ac8a800704bca28f",
+          "uuid": "faf72db6-08-afc1f0cd23624b0073eead0d2f095ed3b9c10f44",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[10]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 68,
+      "source": "Columns",
+      "target": "Columns (columns68)",
+      "key": "columns68",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/events/mongodb-local/london?tck=pencil_banner",
+          "urlHash": "e562ff7fda5f4458a344c2f949f7ff51e8cc67ef",
+          "uuid": "e562ff7f-03-b80dc095c86ac03cb48ac81e8d0428ab29d53271",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/section[1]/div[2]",
+          "section": "section-22"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 69,
+      "source": "Columns",
+      "target": "Columns (columns69)",
+      "key": "columns69",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/updates/version-release",
+          "urlHash": "1077b0ae2f0811e43e620b1a79eb0b526e8d7566",
+          "uuid": "1077b0ae-02-0d74f2604ac945e15b3763ecc26611604ae48729",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/section[1]/div[1]",
+          "section": "section-11"
+        },
+        {
+          "url": "https://www.mongodb.com/events/mongodb-local/london?tck=pencil_banner",
+          "urlHash": "e562ff7fda5f4458a344c2f949f7ff51e8cc67ef",
+          "uuid": "e562ff7f-02-0d74f2604ac945e15b3763ecc26611604ae48729",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/section[1]/div[1]",
+          "section": "section-22"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 70,
+      "source": "Columns",
+      "target": "Columns (columns70)",
+      "key": "columns70",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/tools/relational-migrator",
+          "urlHash": "05b39d48c658a62b45fc848ade480a45d9099238",
+          "uuid": "05b39d48-10-bc2d2ff1772259736104f51bf16cdf42cc691789",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[4]"
+        },
+        {
+          "url": "https://www.mongodb.com/company/partners",
+          "urlHash": "7fdbfa479cd3628acd9b2f234a4a0c731a79e5c4",
+          "uuid": "7fdbfa47-18-759e1efcc23e40d80b2a5c1e4bc9797ccbcf895a",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[7]"
+        },
+        {
+          "url": "https://www.mongodb.com/company/sustainability",
+          "urlHash": "e4522fcf63b6b14a0e67af98931e82cfafde0829",
+          "uuid": "e4522fcf-11-3f97340e29d11864f53b2e856a12abbeae5d2611",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[12]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 71,
+      "source": "Columns",
+      "target": "Columns (columns71)",
+      "key": "columns71",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/company/partners",
+          "urlHash": "7fdbfa479cd3628acd9b2f234a4a0c731a79e5c4",
+          "uuid": "7fdbfa47-11-e42f272a2281eaade3c1d16e23731d607d240740",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/section[1]/div[3]"
+        },
+        {
+          "url": "https://www.mongodb.com/company/partners",
+          "urlHash": "7fdbfa479cd3628acd9b2f234a4a0c731a79e5c4",
+          "uuid": "7fdbfa47-13-43c2a1aaad581829741b35fbba4b3b8a3d300522",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/section[1]/div[5]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 72,
+      "source": "Columns",
+      "target": "Columns (columns72)",
+      "key": "columns72",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/updates/version-release",
+          "urlHash": "1077b0ae2f0811e43e620b1a79eb0b526e8d7566",
+          "uuid": "1077b0ae-04-54cd043142fb232648efbb3ccfcc75c12ddada49",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/section[1]/div[3]",
+          "section": "section-11"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 73,
+      "source": "Columns",
+      "target": "Columns (columns73)",
+      "key": "columns73",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/events/mongodb-local/london?tck=pencil_banner",
+          "urlHash": "e562ff7fda5f4458a344c2f949f7ff51e8cc67ef",
+          "uuid": "e562ff7f-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 74,
+      "source": "Columns",
+      "target": "Columns (columns74)",
+      "key": "columns74",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/company/partners",
+          "urlHash": "7fdbfa479cd3628acd9b2f234a4a0c731a79e5c4",
+          "uuid": "7fdbfa47-08-d74b4444044822e7aa41339402551cc00236a33b",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[3]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 75,
+      "source": "Hero",
+      "target": "Hero (hero75)",
+      "key": "hero75",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/company/sustainability",
+          "urlHash": "e4522fcf63b6b14a0e67af98931e82cfafde0829",
+          "uuid": "e4522fcf-25-9fae4441f93970692f27d49f03968586d9009dd2",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[25]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 76,
+      "source": "Hero",
+      "target": "Hero (hero76)",
+      "key": "hero76",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/company/partners",
+          "urlHash": "7fdbfa479cd3628acd9b2f234a4a0c731a79e5c4",
+          "uuid": "7fdbfa47-06-0d398ac70cffbc0e081b7f54c79083312412e3ad",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 77,
+      "source": "Columns",
+      "target": "Columns (columns77)",
+      "key": "columns77",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/company/partners",
+          "urlHash": "7fdbfa479cd3628acd9b2f234a4a0c731a79e5c4",
+          "uuid": "7fdbfa47-29-ea9445d71748df48821962948d785a0618e39717",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[14]/div[1]/div[1]/div[2]/div[3]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 78,
+      "source": "Columns",
+      "target": "Columns (columns78)",
+      "key": "columns78",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/company/sustainability",
+          "urlHash": "e4522fcf63b6b14a0e67af98931e82cfafde0829",
+          "uuid": "e4522fcf-04-71d116fe18b017a7ff00f3f6a42c592658d5dd44",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]",
+          "section": "section-4"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 79,
+      "source": "Columns",
+      "target": "Columns (columns79)",
+      "key": "columns79",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/docs/atlas/",
+          "urlHash": "ff1aab333cfba4e9f524c4c4b148429e575acb48",
+          "uuid": "ff1aab33-10-741be20b99c43ed998d3913da4a18a48ece95177",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]",
+          "section": "section-5"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 80,
+      "source": "Columns",
+      "target": "Columns (columns80)",
+      "key": "columns80",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/events/mongodb-local/london?tck=pencil_banner",
+          "urlHash": "e562ff7fda5f4458a344c2f949f7ff51e8cc67ef",
+          "uuid": "e562ff7f-11-724582d53c42f3d09fda1440b327c1a5e2d59b9c",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/section[4]/div[4]",
+          "section": "section-25"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 81,
+      "source": "Cards",
+      "target": "Cards (cards81)",
+      "key": "cards81",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/events/mongodb-local/london?tck=pencil_banner",
+          "urlHash": "e562ff7fda5f4458a344c2f949f7ff51e8cc67ef",
+          "uuid": "e562ff7f-13-31cc073d92595bc6cdedaafdaa2002a22450d269",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[7]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 82,
+      "source": "Columns",
+      "target": "Columns (columns82)",
+      "key": "columns82",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/events/mongodb-local/london?tck=pencil_banner",
+          "urlHash": "e562ff7fda5f4458a344c2f949f7ff51e8cc67ef",
+          "uuid": "e562ff7f-14-532d22efc513e3b6acf640c8fc4216e17afd0526",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/section[5]",
+          "section": "section-26"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 83,
+      "source": "Cards",
+      "target": "Cards (cards83)",
+      "key": "cards83",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/legal",
+          "urlHash": "e2acfc8395998fa2e3b2975bc8370b9e3efe3c3e",
+          "uuid": "e2acfc83-03-31a136b00ee4d368075f69906d1d33fc1ab5c432",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 84,
+      "source": "Columns",
+      "target": "Columns (columns84)",
+      "key": "columns84",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/pricing",
+          "urlHash": "92bc5fbf9a6ebde4924c76dfb104572f8fb1b026",
+          "uuid": "92bc5fbf-07-cd3ff6695f9d0707e7ad996be2eea0b58f855dcd",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[16]/mdb-modal[1]/div[1]/div[1]/section[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 85,
+      "source": "Cards",
+      "target": "Cards (cards85)",
+      "key": "cards85",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/pricing",
+          "urlHash": "92bc5fbf9a6ebde4924c76dfb104572f8fb1b026",
+          "uuid": "92bc5fbf-12-56811b09c5b08d09c337c5f81b1b692fd78d2fb7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/section[3]/div[1]/div[2]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Tabs",
+      "cluster": 86,
+      "source": "Tabs",
+      "target": "Tabs (tabs86)",
+      "key": "tabs86",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/platform",
+          "urlHash": "0ba6b0164477cbc0777c598324d5cdfdb47b1292",
+          "uuid": "0ba6b016-06-0b4de3ff95f8cfc598842f879bfcd2b8d336956c",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[5]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 87,
+      "source": "Cards",
+      "target": "Cards (cards87)",
+      "key": "cards87",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/platform",
+          "urlHash": "0ba6b0164477cbc0777c598324d5cdfdb47b1292",
+          "uuid": "0ba6b016-11-be508dd5e34e8330222dcd6fd9cba09a4c229d84",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[8]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 88,
+      "source": "Accordion",
+      "target": "Accordion (accordion88)",
+      "key": "accordion88",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/self-managed/enterprise-advanced",
+          "urlHash": "bc805b0dd6b448ac7ebd8f4a2b298ba8b53c4aeb",
+          "uuid": "bc805b0d-01-1c14ff94910f953f4c4d1498eb5d4f9b522981d6",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 89,
+      "source": "Accordion",
+      "target": "Accordion (accordion89)",
+      "key": "accordion89",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/tools/compass",
+          "urlHash": "6d2764d17e72595da9afd02340dd7cf7e9ae517b",
+          "uuid": "6d2764d1-16-a352e715ba30734f7222ef4f5f0ec350413ed119",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[16]/div[2]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 90,
+      "source": "Columns",
+      "target": "Columns (columns90)",
+      "key": "columns90",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/tools/relational-migrator",
+          "urlHash": "05b39d48c658a62b45fc848ade480a45d9099238",
+          "uuid": "05b39d48-06-0d398ac70cffbc0e081b7f54c79083312412e3ad",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 91,
+      "source": "Columns",
+      "target": "Columns (columns91)",
+      "key": "columns91",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/tools/relational-migrator",
+          "urlHash": "05b39d48c658a62b45fc848ade480a45d9099238",
+          "uuid": "05b39d48-07-a19d291afc58534e7b5c3d096c2f07528a735cca",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/section[1]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 92,
+      "source": "Header",
+      "target": "Header (header92)",
+      "key": "header92",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/updates/",
+          "urlHash": "875863febedf66fb0837148be2830bd8e108d5a9",
+          "uuid": "875863fe-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 93,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages93)",
+      "key": "cardsNoImages93",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/updates/",
+          "urlHash": "875863febedf66fb0837148be2830bd8e108d5a9",
+          "uuid": "875863fe-03-9f9d9ce38d3da8f63ade6e7fd1118acccf29b15d",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 94,
+      "source": "Accordion",
+      "target": "Accordion (accordion94)",
+      "key": "accordion94",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/updates/version-release",
+          "urlHash": "1077b0ae2f0811e43e620b1a79eb0b526e8d7566",
+          "uuid": "1077b0ae-13-5d2066995400f2b9a5b8802f9c58cec46af36c3a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[8]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.mongodb.com/products/updates/version-release",
+          "urlHash": "1077b0ae2f0811e43e620b1a79eb0b526e8d7566",
+          "uuid": "1077b0ae-14-fe3401e1a4e6a0f670536c111bbd0ddd6ccedb61",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[8]/div[1]/div[2]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 95,
+      "source": "Hero",
+      "target": "Hero (hero95)",
+      "key": "hero95",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/products/updates/version-release",
+          "urlHash": "1077b0ae2f0811e43e620b1a79eb0b526e8d7566",
+          "uuid": "1077b0ae-17-9be17e98f5c1fc40bd94f712d3d4aa873e331ad5",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/section[3]",
+          "section": "section-13"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 96,
+      "source": "Hero",
+      "target": "Hero (hero96)",
+      "key": "hero96",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/resources",
+          "urlHash": "2ee7151928e224d11fc10227205ada85f09101c9",
+          "uuid": "2ee71519-05-3086b43427eeef69490b641da437c1774c1caeda",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[5]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 97,
+      "source": "Hero",
+      "target": "Hero (hero97)",
+      "key": "hero97",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/services/support",
+          "urlHash": "e609ec2d93b41fc08fd70d4267b1c48c28f514f6",
+          "uuid": "e609ec2d-08-3fa34aa96d270acb5d44ffa52f8122a33fdded01",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[6]",
+          "section": "section-4"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 98,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages98)",
+      "key": "cardsNoImages98",
+      "instances": [
+        {
+          "url": "https://www.mongodb.com/try/download/enterprise",
+          "urlHash": "dfe8f748a8b954d93e54ad514b0e9f78c91fda65",
+          "uuid": "dfe8f748-03-05c619ea6eb3c21e7cfd3c973467c5e29cd107d6",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/section[2]",
+          "section": "section-21"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://www.mongodb.com/products/tools/relational-migrator",
+      "urlHash": "05b39d48c658a62b45fc848ade480a45d9099238",
+      "uuid": "05b39d48-02-8d2456536e10ae9686540d73c8fe2ea6515946f4",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/section[1]/div[1]/div[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.mongodb.com/products/tools/relational-migrator",
+      "urlHash": "05b39d48c658a62b45fc848ade480a45d9099238",
+      "uuid": "05b39d48-03-68a1b417d7e9b9af387b43261b6092bb8468d2b0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/section[1]/div[1]/div[1]/div[2]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.mongodb.com/products/tools/relational-migrator",
+      "urlHash": "05b39d48c658a62b45fc848ade480a45d9099238",
+      "uuid": "05b39d48-04-2178229dcc280c8d5fcd38bd2369c1f1ecac019c",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/section[1]/div[1]/div[1]/div[3]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.mongodb.com/products/tools/relational-migrator",
+      "urlHash": "05b39d48c658a62b45fc848ade480a45d9099238",
+      "uuid": "05b39d48-08-ef608fb8bee86eec96235717204a1d9f7e5bbeb0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[2]"
+    },
+    {
+      "url": "https://www.mongodb.com/products/tools/relational-migrator",
+      "urlHash": "05b39d48c658a62b45fc848ade480a45d9099238",
+      "uuid": "05b39d48-09-d74b4444044822e7aa41339402551cc00236a33b",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[3]"
+    },
+    {
+      "url": "https://www.mongodb.com/products/tools/relational-migrator",
+      "urlHash": "05b39d48c658a62b45fc848ade480a45d9099238",
+      "uuid": "05b39d48-11-5eb341fb711363b184401aa7848219724495fe02",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[5]"
+    },
+    {
+      "url": "https://www.mongodb.com/products/tools/relational-migrator",
+      "urlHash": "05b39d48c658a62b45fc848ade480a45d9099238",
+      "uuid": "05b39d48-14-759e1efcc23e40d80b2a5c1e4bc9797ccbcf895a",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[7]"
+    },
+    {
+      "url": "https://www.mongodb.com/products/tools/relational-migrator",
+      "urlHash": "05b39d48c658a62b45fc848ade480a45d9099238",
+      "uuid": "05b39d48-15-26b2342f6f45e985ef0ccac392a5857061eed8b7",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[8]"
+    },
+    {
+      "url": "https://www.mongodb.com/products/tools/relational-migrator",
+      "urlHash": "05b39d48c658a62b45fc848ade480a45d9099238",
+      "uuid": "05b39d48-17-b818483e8ae3dc8258125c60e60ae71331ed2c5f",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[10]/div[1]/div[1]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://www.mongodb.com/products/platform",
+      "urlHash": "0ba6b0164477cbc0777c598324d5cdfdb47b1292",
+      "uuid": "0ba6b016-07-503c92e27ac9edad36578f96b961de24c3c4acc3",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[6]"
+    },
+    {
+      "url": "https://www.mongodb.com/products/platform",
+      "urlHash": "0ba6b0164477cbc0777c598324d5cdfdb47b1292",
+      "uuid": "0ba6b016-09-54c59720e3d3a6741ba8cc57716358e5e461294a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.mongodb.com/company/newsroom/news-coverage",
+      "urlHash": "0c81b15ddb29d58af10b623cc3fd50e5e289f024",
+      "uuid": "0c81b15d-02-bf6bc3422b133d22277cf37a21695689ccac15db",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]",
+      "section": "section-10"
+    },
+    {
+      "url": "https://www.mongodb.com/company/newsroom/news-coverage",
+      "urlHash": "0c81b15ddb29d58af10b623cc3fd50e5e289f024",
+      "uuid": "0c81b15d-03-d5fc3d9486bbf512afdb4d6200259f86942c1a70",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]",
+      "section": "section-10"
+    },
+    {
+      "url": "https://www.mongodb.com/company/newsroom/news-coverage",
+      "urlHash": "0c81b15ddb29d58af10b623cc3fd50e5e289f024",
+      "uuid": "0c81b15d-04-6f2b197691fea7f5908155808418fbe92d09f99e",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/span[1]",
+      "section": "section-10"
+    },
+    {
+      "url": "https://www.mongodb.com/products/updates/version-release",
+      "urlHash": "1077b0ae2f0811e43e620b1a79eb0b526e8d7566",
+      "uuid": "1077b0ae-06-ceb19a1e376ade87a9f427fa83bd8678f79d48ae",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/section[1]/div[5]",
+      "section": "section-11"
+    },
+    {
+      "url": "https://www.mongodb.com/products/updates/version-release",
+      "urlHash": "1077b0ae2f0811e43e620b1a79eb0b526e8d7566",
+      "uuid": "1077b0ae-07-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.mongodb.com/products/updates/version-release",
+      "urlHash": "1077b0ae2f0811e43e620b1a79eb0b526e8d7566",
+      "uuid": "1077b0ae-09-0b4de3ff95f8cfc598842f879bfcd2b8d336956c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[5]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.mongodb.com/products/updates/version-release",
+      "urlHash": "1077b0ae2f0811e43e620b1a79eb0b526e8d7566",
+      "uuid": "1077b0ae-10-05c619ea6eb3c21e7cfd3c973467c5e29cd107d6",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/section[2]",
+      "section": "section-12"
+    },
+    {
+      "url": "https://www.mongodb.com/products/updates/version-release",
+      "urlHash": "1077b0ae2f0811e43e620b1a79eb0b526e8d7566",
+      "uuid": "1077b0ae-11-503c92e27ac9edad36578f96b961de24c3c4acc3",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[6]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.mongodb.com/products/updates/version-release",
+      "urlHash": "1077b0ae2f0811e43e620b1a79eb0b526e8d7566",
+      "uuid": "1077b0ae-12-31cc073d92595bc6cdedaafdaa2002a22450d269",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[7]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.mongodb.com/products/updates/version-release",
+      "urlHash": "1077b0ae2f0811e43e620b1a79eb0b526e8d7566",
+      "uuid": "1077b0ae-16-4e0019e0b4dd516907e7a27467168967848cc537",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[9]"
+    },
+    {
+      "url": "https://www.mongodb.com/press/mongodb-strengthens-foundation-for-ai-applications-with-product-innovations-and-expanded-partner-ecosystem",
+      "urlHash": "18709ec5178e8c13dfc65cae53b68df70641d26e",
+      "uuid": "18709ec5-02-d72caa907dc624342957e5b0bf1f3f76c63d7ee7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]",
+      "section": "section-14"
+    },
+    {
+      "url": "https://www.mongodb.com/press/mongodb-strengthens-foundation-for-ai-applications-with-product-innovations-and-expanded-partner-ecosystem",
+      "urlHash": "18709ec5178e8c13dfc65cae53b68df70641d26e",
+      "uuid": "18709ec5-03-1cd5e60707bc11e5ffed495174408904fc84dcf4",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.mongodb.com/press/mongo-db-announces-commitment-to-achieve-fedramp-high-and-impact-level-5-authorizations",
+      "urlHash": "208a0f9d22bdc2c045557b94b9b8d2cde7728968",
+      "uuid": "208a0f9d-02-d72caa907dc624342957e5b0bf1f3f76c63d7ee7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]",
+      "section": "section-14"
+    },
+    {
+      "url": "https://www.mongodb.com/press/mongo-db-announces-commitment-to-achieve-fedramp-high-and-impact-level-5-authorizations",
+      "urlHash": "208a0f9d22bdc2c045557b94b9b8d2cde7728968",
+      "uuid": "208a0f9d-03-1cd5e60707bc11e5ffed495174408904fc84dcf4",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.mongodb.com/resources",
+      "urlHash": "2ee7151928e224d11fc10227205ada85f09101c9",
+      "uuid": "2ee71519-01-63f4c5558121d05317cdfdd90b4ab2dbe3632880",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]"
+    },
+    {
+      "url": "https://www.mongodb.com/resources",
+      "urlHash": "2ee7151928e224d11fc10227205ada85f09101c9",
+      "uuid": "2ee71519-02-7dabc7e31c45a802592651f60769eff199a48c33",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]"
+    },
+    {
+      "url": "https://www.mongodb.com/resources",
+      "urlHash": "2ee7151928e224d11fc10227205ada85f09101c9",
+      "uuid": "2ee71519-06-a475d8fb967ced0b4ef9950dd397e659ae1cf45d",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[6]/div[1]/section[1]/h3[1]"
+    },
+    {
+      "url": "https://www.mongodb.com/company/newsroom/brand-resources",
+      "urlHash": "409c455da7c87d58ab11f8fc20d54f1067b4ea20",
+      "uuid": "409c455d-02-d5fc3d9486bbf512afdb4d6200259f86942c1a70",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.mongodb.com/company/newsroom/brand-resources",
+      "urlHash": "409c455da7c87d58ab11f8fc20d54f1067b4ea20",
+      "uuid": "409c455d-03-a19d291afc58534e7b5c3d096c2f07528a735cca",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/section[1]"
+    },
+    {
+      "url": "https://www.mongodb.com/company/newsroom/brand-resources",
+      "urlHash": "409c455da7c87d58ab11f8fc20d54f1067b4ea20",
+      "uuid": "409c455d-04-0d398ac70cffbc0e081b7f54c79083312412e3ad",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.mongodb.com/company/newsroom/brand-resources",
+      "urlHash": "409c455da7c87d58ab11f8fc20d54f1067b4ea20",
+      "uuid": "409c455d-05-ef608fb8bee86eec96235717204a1d9f7e5bbeb0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[2]"
+    },
+    {
+      "url": "https://www.mongodb.com/products/platform/atlas-search",
+      "urlHash": "5858653885902f914e9b2e3ddb7f5729380e1520",
+      "uuid": "58586538-04-03ac9e6f006d5714c6a465d9da2caa7119a4d70b",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]"
+    },
+    {
+      "url": "https://www.mongodb.com/products/platform/atlas-search",
+      "urlHash": "5858653885902f914e9b2e3ddb7f5729380e1520",
+      "uuid": "58586538-09-c08422151deb50b8cd34085a2290e0d576e0dec0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[11]"
+    },
+    {
+      "url": "https://www.mongodb.com/products/platform/atlas-search",
+      "urlHash": "5858653885902f914e9b2e3ddb7f5729380e1520",
+      "uuid": "58586538-10-3f97340e29d11864f53b2e856a12abbeae5d2611",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[12]"
+    },
+    {
+      "url": "https://www.mongodb.com/products/platform/atlas-search",
+      "urlHash": "5858653885902f914e9b2e3ddb7f5729380e1520",
+      "uuid": "58586538-13-9e55c8a1ea956e9731973a62221908202bfa4eb7",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[14]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.mongodb.com/products/platform/atlas-search",
+      "urlHash": "5858653885902f914e9b2e3ddb7f5729380e1520",
+      "uuid": "58586538-15-037cc84e3bf747694e82eeba59205216388d3067",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[16]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.mongodb.com/products/platform/atlas-search",
+      "urlHash": "5858653885902f914e9b2e3ddb7f5729380e1520",
+      "uuid": "58586538-17-2c176ea0bd4b14b9c0e96015e502e0aa901a6ba4",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[17]/div[1]/div[1]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://www.mongodb.com/company/values",
+      "urlHash": "59603a3872d08b71e642bebf441798ec70fb497a",
+      "uuid": "59603a38-02-8d2456536e10ae9686540d73c8fe2ea6515946f4",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/section[1]/div[1]/div[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.mongodb.com/company/values",
+      "urlHash": "59603a3872d08b71e642bebf441798ec70fb497a",
+      "uuid": "59603a38-03-68a1b417d7e9b9af387b43261b6092bb8468d2b0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/section[1]/div[1]/div[1]/div[2]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.mongodb.com/company/values",
+      "urlHash": "59603a3872d08b71e642bebf441798ec70fb497a",
+      "uuid": "59603a38-06-0d398ac70cffbc0e081b7f54c79083312412e3ad",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]"
+    },
+    {
+      "url": "https://www.mongodb.com/company/values",
+      "urlHash": "59603a3872d08b71e642bebf441798ec70fb497a",
+      "uuid": "59603a38-07-ef608fb8bee86eec96235717204a1d9f7e5bbeb0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[2]"
+    },
+    {
+      "url": "https://www.mongodb.com/products/tools/compass",
+      "urlHash": "6d2764d17e72595da9afd02340dd7cf7e9ae517b",
+      "uuid": "6d2764d1-04-03ac9e6f006d5714c6a465d9da2caa7119a4d70b",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]"
+    },
+    {
+      "url": "https://www.mongodb.com/products/tools/compass",
+      "urlHash": "6d2764d17e72595da9afd02340dd7cf7e9ae517b",
+      "uuid": "6d2764d1-09-c08422151deb50b8cd34085a2290e0d576e0dec0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[11]"
+    },
+    {
+      "url": "https://www.mongodb.com/products/tools/compass",
+      "urlHash": "6d2764d17e72595da9afd02340dd7cf7e9ae517b",
+      "uuid": "6d2764d1-10-3f97340e29d11864f53b2e856a12abbeae5d2611",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[12]"
+    },
+    {
+      "url": "https://www.mongodb.com/products/tools/compass",
+      "urlHash": "6d2764d17e72595da9afd02340dd7cf7e9ae517b",
+      "uuid": "6d2764d1-13-9e55c8a1ea956e9731973a62221908202bfa4eb7",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[14]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.mongodb.com/products/tools/compass",
+      "urlHash": "6d2764d17e72595da9afd02340dd7cf7e9ae517b",
+      "uuid": "6d2764d1-15-037cc84e3bf747694e82eeba59205216388d3067",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[16]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.mongodb.com/products/tools/compass",
+      "urlHash": "6d2764d17e72595da9afd02340dd7cf7e9ae517b",
+      "uuid": "6d2764d1-17-2c176ea0bd4b14b9c0e96015e502e0aa901a6ba4",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[17]/div[1]/div[1]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://www.mongodb.com/company/partners",
+      "urlHash": "7fdbfa479cd3628acd9b2f234a4a0c731a79e5c4",
+      "uuid": "7fdbfa47-02-8d2456536e10ae9686540d73c8fe2ea6515946f4",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/section[1]/div[1]/div[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.mongodb.com/company/partners",
+      "urlHash": "7fdbfa479cd3628acd9b2f234a4a0c731a79e5c4",
+      "uuid": "7fdbfa47-03-68a1b417d7e9b9af387b43261b6092bb8468d2b0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/section[1]/div[1]/div[1]/div[2]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.mongodb.com/company/partners",
+      "urlHash": "7fdbfa479cd3628acd9b2f234a4a0c731a79e5c4",
+      "uuid": "7fdbfa47-04-2178229dcc280c8d5fcd38bd2369c1f1ecac019c",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/section[1]/div[1]/div[1]/div[3]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.mongodb.com/company/partners",
+      "urlHash": "7fdbfa479cd3628acd9b2f234a4a0c731a79e5c4",
+      "uuid": "7fdbfa47-07-ef608fb8bee86eec96235717204a1d9f7e5bbeb0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[2]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.mongodb.com/company/partners",
+      "urlHash": "7fdbfa479cd3628acd9b2f234a4a0c731a79e5c4",
+      "uuid": "7fdbfa47-09-21ef0dffccaf87af9c6eecc4e9587c6419d495c5",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/section[1]/div[1]"
+    },
+    {
+      "url": "https://www.mongodb.com/company/partners",
+      "urlHash": "7fdbfa479cd3628acd9b2f234a4a0c731a79e5c4",
+      "uuid": "7fdbfa47-14-657df0f62cc4797ff89fee752e300fd0a2141b98",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/section[1]/div[6]"
+    },
+    {
+      "url": "https://www.mongodb.com/company/partners",
+      "urlHash": "7fdbfa479cd3628acd9b2f234a4a0c731a79e5c4",
+      "uuid": "7fdbfa47-15-bc2d2ff1772259736104f51bf16cdf42cc691789",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[4]"
+    },
+    {
+      "url": "https://www.mongodb.com/company/partners",
+      "urlHash": "7fdbfa479cd3628acd9b2f234a4a0c731a79e5c4",
+      "uuid": "7fdbfa47-17-3fa34aa96d270acb5d44ffa52f8122a33fdded01",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[6]"
+    },
+    {
+      "url": "https://www.mongodb.com/company/partners",
+      "urlHash": "7fdbfa479cd3628acd9b2f234a4a0c731a79e5c4",
+      "uuid": "7fdbfa47-19-26b2342f6f45e985ef0ccac392a5857061eed8b7",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[8]"
+    },
+    {
+      "url": "https://www.mongodb.com/company/partners",
+      "urlHash": "7fdbfa479cd3628acd9b2f234a4a0c731a79e5c4",
+      "uuid": "7fdbfa47-20-79726255b501eec8e629ed1828db4daf26a9bc74",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[9]"
+    },
+    {
+      "url": "https://www.mongodb.com/company/partners",
+      "urlHash": "7fdbfa479cd3628acd9b2f234a4a0c731a79e5c4",
+      "uuid": "7fdbfa47-23-1c2e8cab65d5c5dbf170960c281763148abfd8d5",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[12]"
+    },
+    {
+      "url": "https://www.mongodb.com/company/partners",
+      "urlHash": "7fdbfa479cd3628acd9b2f234a4a0c731a79e5c4",
+      "uuid": "7fdbfa47-25-a62048b09a16ad7936167edb449d2a246f1d0341",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/section[2]/div[1]"
+    },
+    {
+      "url": "https://www.mongodb.com/company/partners",
+      "urlHash": "7fdbfa479cd3628acd9b2f234a4a0c731a79e5c4",
+      "uuid": "7fdbfa47-27-47744f29caffb8cc4a0683345699b5d6770ebbb3",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[14]/div[1]/div[1]/div[2]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.mongodb.com/company/partners",
+      "urlHash": "7fdbfa479cd3628acd9b2f234a4a0c731a79e5c4",
+      "uuid": "7fdbfa47-28-376dd135829aaf8e34de337fb90d8aa088c557b8",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[14]/div[1]/div[1]/div[2]/div[2]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.mongodb.com/company/partners",
+      "urlHash": "7fdbfa479cd3628acd9b2f234a4a0c731a79e5c4",
+      "uuid": "7fdbfa47-30-362ce2175cd68abe39f73ef286d52784d8bf7198",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[15]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.mongodb.com/legal/privacy/privacy-policy",
+      "urlHash": "81172ec3cdc9781c05c52fbd4797cc6af3735ce0",
+      "uuid": "81172ec3-00-ec260e70fd0d109a7b00561467202bbb97cfb965",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.mongodb.com/legal/privacy/privacy-policy",
+      "urlHash": "81172ec3cdc9781c05c52fbd4797cc6af3735ce0",
+      "uuid": "81172ec3-01-1cd5e60707bc11e5ffed495174408904fc84dcf4",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.mongodb.com/products/updates/",
+      "urlHash": "875863febedf66fb0837148be2830bd8e108d5a9",
+      "uuid": "875863fe-02-6fb01a5e8642bf5e6d82189440eb89e837b27498",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/h3[1]"
+    },
+    {
+      "url": "https://www.mongodb.com/pricing",
+      "urlHash": "92bc5fbf9a6ebde4924c76dfb104572f8fb1b026",
+      "uuid": "92bc5fbf-03-2d1fbc67529d2a50d71cf032493155596427edad",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/h2[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.mongodb.com/pricing",
+      "urlHash": "92bc5fbf9a6ebde4924c76dfb104572f8fb1b026",
+      "uuid": "92bc5fbf-04-e0e1a7936e853330910fd791c8f6faa707fc7a45",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.mongodb.com/pricing",
+      "urlHash": "92bc5fbf9a6ebde4924c76dfb104572f8fb1b026",
+      "uuid": "92bc5fbf-05-6ff0a262dfb7991c7b2f25ca373ebf0b6885049d",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[13]/mdb-modal[1]/div[1]/div[2]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.mongodb.com/pricing",
+      "urlHash": "92bc5fbf9a6ebde4924c76dfb104572f8fb1b026",
+      "uuid": "92bc5fbf-09-90e9aaf281a0737cd21934c8ffa31d385528ddaa",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[6]/mdb-modal[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.mongodb.com/pricing",
+      "urlHash": "92bc5fbf9a6ebde4924c76dfb104572f8fb1b026",
+      "uuid": "92bc5fbf-10-3ac1df2956bb3ad004f20448fba8dc4cce6ef5d8",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/section[2]",
+      "section": "section-16"
+    },
+    {
+      "url": "https://www.mongodb.com/pricing",
+      "urlHash": "92bc5fbf9a6ebde4924c76dfb104572f8fb1b026",
+      "uuid": "92bc5fbf-11-3e31d4dda08c130630f4a5d87f739589bec4aeb9",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/section[3]/div[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://www.mongodb.com/events",
+      "urlHash": "9579edc3a2101802951cc3674767eae95cdf2a3c",
+      "uuid": "9579edc3-01-63f4c5558121d05317cdfdd90b4ab2dbe3632880",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]"
+    },
+    {
+      "url": "https://www.mongodb.com/events",
+      "urlHash": "9579edc3a2101802951cc3674767eae95cdf2a3c",
+      "uuid": "9579edc3-02-7dabc7e31c45a802592651f60769eff199a48c33",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]"
+    },
+    {
+      "url": "https://www.mongodb.com/events",
+      "urlHash": "9579edc3a2101802951cc3674767eae95cdf2a3c",
+      "uuid": "9579edc3-05-099b0da0d580ea036b4a53eb66fb0a3e32956f9a",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[5]/div[1]/section[1]/h3[1]"
+    },
+    {
+      "url": "https://www.mongodb.com/press/mongodb-launches-ai-powered-application-modernization-platform-to-reduce-technical-debt-and-speed-innovation",
+      "urlHash": "9eba2303f9f556f8c3a020431ea17eb3858827c1",
+      "uuid": "9eba2303-02-d72caa907dc624342957e5b0bf1f3f76c63d7ee7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]",
+      "section": "section-14"
+    },
+    {
+      "url": "https://www.mongodb.com/press/mongodb-launches-ai-powered-application-modernization-platform-to-reduce-technical-debt-and-speed-innovation",
+      "urlHash": "9eba2303f9f556f8c3a020431ea17eb3858827c1",
+      "uuid": "9eba2303-03-1cd5e60707bc11e5ffed495174408904fc84dcf4",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.mongodb.com/company/newsroom/press-releases",
+      "urlHash": "a3ea011c020253276a57c91cab331e6f4f043bb6",
+      "uuid": "a3ea011c-02-bf6bc3422b133d22277cf37a21695689ccac15db",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]",
+      "section": "section-10"
+    },
+    {
+      "url": "https://www.mongodb.com/company/newsroom/press-releases",
+      "urlHash": "a3ea011c020253276a57c91cab331e6f4f043bb6",
+      "uuid": "a3ea011c-03-d5fc3d9486bbf512afdb4d6200259f86942c1a70",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]",
+      "section": "section-10"
+    },
+    {
+      "url": "https://www.mongodb.com/company/newsroom/press-releases",
+      "urlHash": "a3ea011c020253276a57c91cab331e6f4f043bb6",
+      "uuid": "a3ea011c-04-6f2b197691fea7f5908155808418fbe92d09f99e",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/span[1]",
+      "section": "section-10"
+    },
+    {
+      "url": "https://www.mongodb.com/press/mongodb-inc-announces-mike-berry-as-chief-financial-officer",
+      "urlHash": "b66eee27641845ae8f01c4bb85bd8c1a862f458c",
+      "uuid": "b66eee27-02-d72caa907dc624342957e5b0bf1f3f76c63d7ee7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]",
+      "section": "section-14"
+    },
+    {
+      "url": "https://www.mongodb.com/press/mongodb-inc-announces-mike-berry-as-chief-financial-officer",
+      "urlHash": "b66eee27641845ae8f01c4bb85bd8c1a862f458c",
+      "uuid": "b66eee27-03-1cd5e60707bc11e5ffed495174408904fc84dcf4",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.mongodb.com/products/self-managed/enterprise-advanced",
+      "urlHash": "bc805b0dd6b448ac7ebd8f4a2b298ba8b53c4aeb",
+      "uuid": "bc805b0d-08-afc1f0cd23624b0073eead0d2f095ed3b9c10f44",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[10]"
+    },
+    {
+      "url": "https://www.mongodb.com/products/self-managed/enterprise-advanced",
+      "urlHash": "bc805b0dd6b448ac7ebd8f4a2b298ba8b53c4aeb",
+      "uuid": "bc805b0d-10-3f97340e29d11864f53b2e856a12abbeae5d2611",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[12]"
+    },
+    {
+      "url": "https://www.mongodb.com/products/self-managed/enterprise-advanced",
+      "urlHash": "bc805b0dd6b448ac7ebd8f4a2b298ba8b53c4aeb",
+      "uuid": "bc805b0d-12-9e55c8a1ea956e9731973a62221908202bfa4eb7",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[14]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.mongodb.com/products/self-managed/enterprise-advanced",
+      "urlHash": "bc805b0dd6b448ac7ebd8f4a2b298ba8b53c4aeb",
+      "uuid": "bc805b0d-14-24187f61397738895fba63759872fa227e5c9a08",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[16]"
+    },
+    {
+      "url": "https://www.mongodb.com/products/self-managed/enterprise-advanced",
+      "urlHash": "bc805b0dd6b448ac7ebd8f4a2b298ba8b53c4aeb",
+      "uuid": "bc805b0d-16-6809ba65a1e50d1cd64e5701dd307d6cab0d455a",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[18]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.mongodb.com/products/self-managed/enterprise-advanced",
+      "urlHash": "bc805b0dd6b448ac7ebd8f4a2b298ba8b53c4aeb",
+      "uuid": "bc805b0d-19-94417de1f1f49a042edd78efae7b7c3ef17d260c",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[19]/div[1]/div[1]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://www.mongodb.com/company/our-story",
+      "urlHash": "c84237a8f53ff847b97b019f8ce7574518034c5b",
+      "uuid": "c84237a8-02-8d2456536e10ae9686540d73c8fe2ea6515946f4",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/section[1]/div[1]/div[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.mongodb.com/company/our-story",
+      "urlHash": "c84237a8f53ff847b97b019f8ce7574518034c5b",
+      "uuid": "c84237a8-03-68a1b417d7e9b9af387b43261b6092bb8468d2b0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/section[1]/div[1]/div[1]/div[2]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.mongodb.com/company/our-story",
+      "urlHash": "c84237a8f53ff847b97b019f8ce7574518034c5b",
+      "uuid": "c84237a8-05-a19d291afc58534e7b5c3d096c2f07528a735cca",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/section[1]"
+    },
+    {
+      "url": "https://www.mongodb.com/company/our-story",
+      "urlHash": "c84237a8f53ff847b97b019f8ce7574518034c5b",
+      "uuid": "c84237a8-06-0d398ac70cffbc0e081b7f54c79083312412e3ad",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]"
+    },
+    {
+      "url": "https://www.mongodb.com/company/our-story",
+      "urlHash": "c84237a8f53ff847b97b019f8ce7574518034c5b",
+      "uuid": "c84237a8-07-ef608fb8bee86eec96235717204a1d9f7e5bbeb0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[2]"
+    },
+    {
+      "url": "https://www.mongodb.com/press/mongodb-extends-search-and-vector-search-capabilities-to-self-managed-offerings",
+      "urlHash": "dc6d13894f0f20fd9efaa30ce2390e3aa8b54a56",
+      "uuid": "dc6d1389-02-d72caa907dc624342957e5b0bf1f3f76c63d7ee7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]",
+      "section": "section-14"
+    },
+    {
+      "url": "https://www.mongodb.com/press/mongodb-extends-search-and-vector-search-capabilities-to-self-managed-offerings",
+      "urlHash": "dc6d13894f0f20fd9efaa30ce2390e3aa8b54a56",
+      "uuid": "dc6d1389-03-1cd5e60707bc11e5ffed495174408904fc84dcf4",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.mongodb.com/legal",
+      "urlHash": "e2acfc8395998fa2e3b2975bc8370b9e3efe3c3e",
+      "uuid": "e2acfc83-02-d5fc3d9486bbf512afdb4d6200259f86942c1a70",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.mongodb.com/company/sustainability",
+      "urlHash": "e4522fcf63b6b14a0e67af98931e82cfafde0829",
+      "uuid": "e4522fcf-03-31a136b00ee4d368075f69906d1d33fc1ab5c432",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://www.mongodb.com/company/sustainability",
+      "urlHash": "e4522fcf63b6b14a0e67af98931e82cfafde0829",
+      "uuid": "e4522fcf-06-25e9910beb5b9546c70f945544f8e1f90e53689f",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[7]"
+    },
+    {
+      "url": "https://www.mongodb.com/company/sustainability",
+      "urlHash": "e4522fcf63b6b14a0e67af98931e82cfafde0829",
+      "uuid": "e4522fcf-09-afc1f0cd23624b0073eead0d2f095ed3b9c10f44",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[10]"
+    },
+    {
+      "url": "https://www.mongodb.com/company/sustainability",
+      "urlHash": "e4522fcf63b6b14a0e67af98931e82cfafde0829",
+      "uuid": "e4522fcf-12-a280777039251cea0cda22489e3aa493b11daf2d",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[13]"
+    },
+    {
+      "url": "https://www.mongodb.com/company/sustainability",
+      "urlHash": "e4522fcf63b6b14a0e67af98931e82cfafde0829",
+      "uuid": "e4522fcf-15-24187f61397738895fba63759872fa227e5c9a08",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[16]"
+    },
+    {
+      "url": "https://www.mongodb.com/company/sustainability",
+      "urlHash": "e4522fcf63b6b14a0e67af98931e82cfafde0829",
+      "uuid": "e4522fcf-16-f023df84e2b09b1fc30d269c319ed5501f3600b3",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[17]"
+    },
+    {
+      "url": "https://www.mongodb.com/company/sustainability",
+      "urlHash": "e4522fcf63b6b14a0e67af98931e82cfafde0829",
+      "uuid": "e4522fcf-17-31d3c8896b1fd3531c6b4d088f068667d668f20a",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]"
+    },
+    {
+      "url": "https://www.mongodb.com/company/sustainability",
+      "urlHash": "e4522fcf63b6b14a0e67af98931e82cfafde0829",
+      "uuid": "e4522fcf-18-1eb0b5435f5913c44dc80820c4f5c9ca1dc7cf0c",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[18]"
+    },
+    {
+      "url": "https://www.mongodb.com/company/sustainability",
+      "urlHash": "e4522fcf63b6b14a0e67af98931e82cfafde0829",
+      "uuid": "e4522fcf-19-a5eb049ea0d542df41dd0bc81207fbe638f164fa",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[19]"
+    },
+    {
+      "url": "https://www.mongodb.com/company/sustainability",
+      "urlHash": "e4522fcf63b6b14a0e67af98931e82cfafde0829",
+      "uuid": "e4522fcf-20-004b2cf625f94a34832a29330c7ed94f3817b102",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[20]"
+    },
+    {
+      "url": "https://www.mongodb.com/company/sustainability",
+      "urlHash": "e4522fcf63b6b14a0e67af98931e82cfafde0829",
+      "uuid": "e4522fcf-22-1c8dc3521e8c481e6a4341ced3d0b476cdcf6a26",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[22]"
+    },
+    {
+      "url": "https://www.mongodb.com/company/sustainability",
+      "urlHash": "e4522fcf63b6b14a0e67af98931e82cfafde0829",
+      "uuid": "e4522fcf-27-9350e08c4a99ff32ba3e8b6debb458044e837260",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[27]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.mongodb.com/events/mongodb-local/london?tck=pencil_banner",
+      "urlHash": "e562ff7fda5f4458a344c2f949f7ff51e8cc67ef",
+      "uuid": "e562ff7f-07-0b4de3ff95f8cfc598842f879bfcd2b8d336956c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[5]"
+    },
+    {
+      "url": "https://www.mongodb.com/events/mongodb-local/london?tck=pencil_banner",
+      "urlHash": "e562ff7fda5f4458a344c2f949f7ff51e8cc67ef",
+      "uuid": "e562ff7f-08-e84543bfbf1e0558635dbc367a1a295f5d7fd15a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/section[4]/div[1]",
+      "section": "section-25"
+    },
+    {
+      "url": "https://www.mongodb.com/events/mongodb-local/london?tck=pencil_banner",
+      "urlHash": "e562ff7fda5f4458a344c2f949f7ff51e8cc67ef",
+      "uuid": "e562ff7f-10-88fceaaef846bac06ee09f19c38ed09b75044b14",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/section[4]/div[3]",
+      "section": "section-25"
+    },
+    {
+      "url": "https://www.mongodb.com/events/mongodb-local/london?tck=pencil_banner",
+      "urlHash": "e562ff7fda5f4458a344c2f949f7ff51e8cc67ef",
+      "uuid": "e562ff7f-12-503c92e27ac9edad36578f96b961de24c3c4acc3",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[6]"
+    },
+    {
+      "url": "https://www.mongodb.com/events/mongodb-local/london?tck=pencil_banner",
+      "urlHash": "e562ff7fda5f4458a344c2f949f7ff51e8cc67ef",
+      "uuid": "e562ff7f-15-be508dd5e34e8330222dcd6fd9cba09a4c229d84",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[8]"
+    },
+    {
+      "url": "https://www.mongodb.com/services/support",
+      "urlHash": "e609ec2d93b41fc08fd70d4267b1c48c28f514f6",
+      "uuid": "e609ec2d-04-ef608fb8bee86eec96235717204a1d9f7e5bbeb0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[2]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.mongodb.com/services/support",
+      "urlHash": "e609ec2d93b41fc08fd70d4267b1c48c28f514f6",
+      "uuid": "e609ec2d-06-bc2d2ff1772259736104f51bf16cdf42cc691789",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[4]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.mongodb.com/company/newsroom",
+      "urlHash": "f736ae79caf7aa4dbaa12d6083ab39c2feb34dee",
+      "uuid": "f736ae79-02-bf6bc3422b133d22277cf37a21695689ccac15db",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]",
+      "section": "section-27"
+    },
+    {
+      "url": "https://www.mongodb.com/company/newsroom",
+      "urlHash": "f736ae79caf7aa4dbaa12d6083ab39c2feb34dee",
+      "uuid": "f736ae79-04-8c22c48dc3f193efa33e7be001a97548d3786b31",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.mongodb.com/products/platform/atlas-database",
+      "urlHash": "faf72db6ef650ccfe56d2165ac8a800704bca28f",
+      "uuid": "faf72db6-05-25e9910beb5b9546c70f945544f8e1f90e53689f",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[7]"
+    },
+    {
+      "url": "https://www.mongodb.com/products/platform/atlas-database",
+      "urlHash": "faf72db6ef650ccfe56d2165ac8a800704bca28f",
+      "uuid": "faf72db6-11-a280777039251cea0cda22489e3aa493b11daf2d",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[13]"
+    },
+    {
+      "url": "https://www.mongodb.com/products/platform/atlas-database",
+      "urlHash": "faf72db6ef650ccfe56d2165ac8a800704bca28f",
+      "uuid": "faf72db6-13-2c04cc593160f2ed3d06242f4d188e98288e2bfe",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[15]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.mongodb.com/products/platform/atlas-database",
+      "urlHash": "faf72db6ef650ccfe56d2165ac8a800704bca28f",
+      "uuid": "faf72db6-15-f023df84e2b09b1fc30d269c319ed5501f3600b3",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[17]"
+    },
+    {
+      "url": "https://www.mongodb.com/products/platform/atlas-database",
+      "urlHash": "faf72db6ef650ccfe56d2165ac8a800704bca28f",
+      "uuid": "faf72db6-17-ff06fc13b9fed82df3ef1938b33458846345a430",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[19]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.mongodb.com/products/platform/atlas-database",
+      "urlHash": "faf72db6ef650ccfe56d2165ac8a800704bca28f",
+      "uuid": "faf72db6-19-2351579abd4725eced264292890ca78936c59db0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[20]/div[1]/div[1]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://www.mongodb.com/docs/atlas/",
+      "urlHash": "ff1aab333cfba4e9f524c4c4b148429e575acb48",
+      "uuid": "ff1aab33-01-4893439d264db986956051587f3eb0e7cb065610",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/ul[1]/div[2]/div[1]/li[5]",
+      "section": "section-29"
+    },
+    {
+      "url": "https://www.mongodb.com/docs/atlas/",
+      "urlHash": "ff1aab333cfba4e9f524c4c4b148429e575acb48",
+      "uuid": "ff1aab33-02-ce978c5b1dee58026878358f9c9a0fb2b71c9d5a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/ul[1]/div[2]/div[1]/li[6]",
+      "section": "section-29"
+    },
+    {
+      "url": "https://www.mongodb.com/docs/atlas/",
+      "urlHash": "ff1aab333cfba4e9f524c4c4b148429e575acb48",
+      "uuid": "ff1aab33-03-98caecf74ef951f76dea284f6a91c1eceae19bf9",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/ul[1]/div[2]/div[1]/li[7]",
+      "section": "section-29"
+    },
+    {
+      "url": "https://www.mongodb.com/docs/atlas/",
+      "urlHash": "ff1aab333cfba4e9f524c4c4b148429e575acb48",
+      "uuid": "ff1aab33-04-998fd9b0599751738a156cb0c09944e0d8ca3599",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/ul[1]/div[2]/div[1]/li[8]",
+      "section": "section-30"
+    },
+    {
+      "url": "https://www.mongodb.com/docs/atlas/",
+      "urlHash": "ff1aab333cfba4e9f524c4c4b148429e575acb48",
+      "uuid": "ff1aab33-05-8706896bb4ad6b91bcf1e0b308427b8bf6760039",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/ul[1]/div[2]/div[1]/li[9]",
+      "section": "section-30"
+    },
+    {
+      "url": "https://www.mongodb.com/docs/atlas/",
+      "urlHash": "ff1aab333cfba4e9f524c4c4b148429e575acb48",
+      "uuid": "ff1aab33-06-63042a123fafb11e4c3a1c48858a60037f122b09",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/ul[1]/div[2]/div[1]/li[10]",
+      "section": "section-30"
+    },
+    {
+      "url": "https://www.mongodb.com/docs/atlas/",
+      "urlHash": "ff1aab333cfba4e9f524c4c4b148429e575acb48",
+      "uuid": "ff1aab33-09-0899dc1be775f3471272048e84769be5eb150cbb",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/main[1]/div[1]"
+    }
+  ],
+  "sections": [
+    {
+      "name": "section-1",
+      "background": "rgb(0, 104, 74) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 23
+    },
+    {
+      "name": "section-2",
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 66
+    },
+    {
+      "name": "section-3",
+      "background": "rgb(0, 30, 43) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 48
+    },
+    {
+      "name": "section-4",
+      "background": "rgb(2, 52, 48) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 14
+    },
+    {
+      "name": "section-5",
+      "background": "rgb(6, 22, 33) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 24
+    },
+    {
+      "name": "section-6",
+      "background": "url(\"https://webimages.mongodb.com/_com_assets/cms/kufvfwlbw8ao1wrkx-bottom-right.svg?auto=format%252Ccompress\") no-repeat scroll 100% 100% / auto padding-box border-box, rgb(0, 30, 43) url(\"https://webimages.mongodb.com/_com_assets/cms/kufvgu6gmvr5ycimn-top-right.svg?auto=format%252Ccompress\") no-repeat scroll 100% 0% / auto padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-7",
+      "background": "url(\"https://webimages.mongodb.com/_com_assets/cms/kura9kf4ta6mvgsoc-left-scrolly.svg?auto=format%252Ccompress\") no-repeat scroll 0% top -1px / auto padding-box border-box, rgb(0, 30, 43) url(\"https://webimages.mongodb.com/_com_assets/cms/kuraaexarnvsdrus5-right-scrolly.svg?auto=format%252Ccompress\") no-repeat scroll 100% top -1px / auto padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-8",
+      "background": "url(\"https://webimages.mongodb.com/_com_assets/cms/l9oh2ugr8krzen95i-low-left.svg?auto=format%252Ccompress\") no-repeat scroll 0% 100% / auto padding-box border-box, url(\"https://webimages.mongodb.com/_com_assets/cms/l9oh4k8vryvqwiqjx-top-right.svg?auto=format%252Ccompress\") no-repeat scroll 100% 0% / auto padding-box border-box, url(\"https://webimages.mongodb.com/_com_assets/cms/l9oh3rwg9aym0taqz-top-left.svg?auto=format%252Ccompress\") no-repeat scroll 0% 0% / auto padding-box border-box, url(\"https://webimages.mongodb.com/_com_assets/cms/l9oh47mkm9atw4u7s-low-right.svg?auto=format%252Ccompress\") no-repeat scroll 100% 100% / auto padding-box border-box, rgb(2, 52, 48) url(\"https://webimages.mongodb.com/_com_assets/cms/lb12ujzsd98y9sima-shape-stable-home.svg?auto=format%252Ccompress\") no-repeat scroll 100% 0% / auto padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-9",
+      "background": "rgba(0, 0, 0, 0) url(\"https://www.mongodb.com/assets/images/pressroom/header.png\") no-repeat scroll 50% 50% / cover padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-10",
+      "background": "rgb(245, 246, 247) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 7
+    },
+    {
+      "name": "section-11",
+      "background": "url(\"https://webimages.mongodb.com/_com_assets/cms/ku4f5zfi0f5p6my97-bottom-right.svg?auto=format%252Ccompress\") no-repeat scroll 100% 100% / auto padding-box border-box, rgb(0, 30, 43) url(\"https://webimages.mongodb.com/_com_assets/cms/kufuao5jmmboc9uzm-lower-left.svg?auto=format%252Ccompress\") no-repeat scroll 0% 100% / auto padding-box border-box",
+      "count": 5
+    },
+    {
+      "name": "section-12",
+      "background": "rgb(0, 30, 43) none no-repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-13",
+      "background": "url(\"https://webimages.mongodb.com/_com_assets/cms/l7jf1keacrfgtoju0-top-left.svg?auto=format%252Ccompress\") no-repeat scroll 0% 0% / auto padding-box border-box, rgb(0, 30, 43) url(\"https://webimages.mongodb.com/_com_assets/cms/l7jf20tmk2zs07aaf-top-right.svg?auto=format%252Ccompress\") no-repeat scroll 100% 0% / auto padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-14",
+      "background": "linear-gradient(rgba(255, 255, 255, 0.7) 70%, rgb(255, 255, 255)) repeat-x scroll 0% 0% / 440px padding-box border-box, rgba(0, 0, 0, 0) url(\"https://webassets.mongodb.com/_com_assets/cms/dots_hero_pattern@2x-owhl3jgncb.png\") repeat-x scroll 0% 0% / 440px padding-box border-box",
+      "count": 5
+    },
+    {
+      "name": "section-15",
+      "background": "rgb(227, 252, 247) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-16",
+      "background": "rgb(61, 79, 88) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-17",
+      "background": "rgba(0, 0, 0, 0) url(\"https://www.mongodb.com/false\") no-repeat scroll 50% 50% / cover padding-box border-box",
+      "count": 2
+    },
+    {
+      "name": "section-18",
+      "background": "rgb(250, 251, 252) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-19",
+      "background": "rgba(0, 0, 0, 0) url(\"https://www.mongodb.com/assets/images/pressroom/header.png?v=2\") no-repeat scroll 50% 50% / cover padding-box border-box",
+      "count": 2
+    },
+    {
+      "name": "section-20",
+      "background": "rgb(2, 52, 48) url(\"https://webimages.mongodb.com/_com_assets/cms/ku4f5zfi0f5p6my97-bottom-right.svg?auto=format%252Ccompress\") no-repeat scroll 100% 100% / auto padding-box border-box",
+      "count": 2
+    },
+    {
+      "name": "section-21",
+      "background": "rgba(0, 0, 0, 0) url(\"https://webimages.mongodb.com/_com_assets/cms/l76kmy0340lwc24bn-2.svg?auto=format%252Ccompress\") no-repeat scroll left 354px top 920px / 100% padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-22",
+      "background": "url(\"https://webimages.mongodb.com/_com_assets/cms/ku4f5zfi0f5p6my97-bottom-right.svg?auto=format%252Ccompress\") no-repeat scroll 100% bottom -1px / auto padding-box border-box, rgb(2, 52, 48) url(\"https://webimages.mongodb.com/_com_assets/cms/kufuao5jmmboc9uzm-lower-left.svg?auto=format%252Ccompress\") no-repeat scroll 0% bottom -1px / auto padding-box border-box",
+      "count": 2
+    },
+    {
+      "name": "section-23",
+      "background": "rgba(0, 0, 0, 0) url(\"\") no-repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-24",
+      "background": "url(\"https://webimages.mongodb.com/_com_assets/cms/l9oh2ugr8krzen95i-low-left.svg?auto=format%252Ccompress\") no-repeat scroll 0% 100% / auto padding-box border-box, url(\"https://webimages.mongodb.com/_com_assets/cms/l9oh3rwg9aym0taqz-top-left.svg?auto=format%252Ccompress\") no-repeat scroll 0% 0% / auto padding-box border-box, url(\"https://webimages.mongodb.com/_com_assets/cms/l9oh4k8vryvqwiqjx-top-right.svg?auto=format%252Ccompress\") no-repeat scroll 100% 0% / auto padding-box border-box, url(\"https://webimages.mongodb.com/_com_assets/cms/l9oh47mkm9atw4u7s-low-right.svg?auto=format%252Ccompress\") no-repeat scroll 100% 100% / auto padding-box border-box, rgb(2, 52, 48) url(\"https://webimages.mongodb.com/_com_assets/cms/lb12ujzsd98y9sima-shape-stable-home.svg?auto=format%252Ccompress\") no-repeat scroll 100% 0% / auto padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-25",
+      "background": "url(\"https://webimages.mongodb.com/_com_assets/cms/kufvgu6gmvr5ycimn-top-right.svg?auto=format%252Ccompress\") no-repeat scroll 100% 0% / auto padding-box border-box, rgb(2, 52, 48) url(\"https://webimages.mongodb.com/_com_assets/cms/kufvfwlbw8ao1wrkx-bottom-right.svg?auto=format%252Ccompress\") no-repeat scroll 100% 100% / auto padding-box border-box",
+      "count": 4
+    },
+    {
+      "name": "section-26",
+      "background": "url(\"https://webimages.mongodb.com/_com_assets/cms/kufvfwlbw8ao1wrkx-bottom-right.svg?auto=format%252Ccompress\") no-repeat scroll 100% 100% / auto padding-box border-box, rgb(2, 52, 48) url(\"https://webimages.mongodb.com/_com_assets/cms/kufvgu6gmvr5ycimn-top-right.svg?auto=format%252Ccompress\") no-repeat scroll 100% 0% / auto padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-27",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-28",
+      "background": "rgba(0, 0, 0, 0) url(\"https://webimages.mongodb.com/_com_assets/cms/l76kuz3vb4ync1ipe-3.svg?auto=format%252Ccompress\") no-repeat scroll left 417px top 234px / 100% padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-29",
+      "background": "rgb(249, 251, 250) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 3
+    },
+    {
+      "name": "section-30",
+      "background": "rgba(249, 251, 250, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 3
+    }
+  ]
+}
