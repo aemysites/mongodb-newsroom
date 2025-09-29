@@ -1,0 +1,200 @@
+{
+  "templates": [
+    {
+      "name": "Dashboard Template",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://www.mongodb.com/services/support",
+          "uuid": "e609ec2d93b41fc08fd70d4267b1c48c28f514f6"
+        },
+        {
+          "url": "https://www.mongodb.com/legal",
+          "uuid": "e2acfc8395998fa2e3b2975bc8370b9e3efe3c3e"
+        },
+        {
+          "url": "https://www.mongodb.com/resources",
+          "uuid": "2ee7151928e224d11fc10227205ada85f09101c9"
+        },
+        {
+          "url": "https://www.mongodb.com/events",
+          "uuid": "9579edc3a2101802951cc3674767eae95cdf2a3c"
+        }
+      ]
+    },
+    {
+      "name": "Dashboard Template",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://www.mongodb.com/products/platform",
+          "uuid": "0ba6b0164477cbc0777c598324d5cdfdb47b1292"
+        },
+        {
+          "url": "https://www.mongodb.com/products/tools/relational-migrator",
+          "uuid": "05b39d48c658a62b45fc848ade480a45d9099238"
+        },
+        {
+          "url": "https://www.mongodb.com/products/platform/atlas-database",
+          "uuid": "faf72db6ef650ccfe56d2165ac8a800704bca28f"
+        },
+        {
+          "url": "https://www.mongodb.com/products/self-managed/enterprise-advanced",
+          "uuid": "bc805b0dd6b448ac7ebd8f4a2b298ba8b53c4aeb"
+        },
+        {
+          "url": "https://www.mongodb.com/products/tools/compass",
+          "uuid": "6d2764d17e72595da9afd02340dd7cf7e9ae517b"
+        },
+        {
+          "url": "https://www.mongodb.com/products/platform/atlas-search",
+          "uuid": "5858653885902f914e9b2e3ddb7f5729380e1520"
+        }
+      ]
+    },
+    {
+      "name": "\"Form Dashboard\"",
+      "cluster": 3,
+      "pages": [
+        {
+          "url": "https://www.mongodb.com/try/download/enterprise",
+          "uuid": "dfe8f748a8b954d93e54ad514b0e9f78c91fda65"
+        },
+        {
+          "url": "https://www.mongodb.com/try/download/community",
+          "uuid": "f93466b616572e199cf40ce1e85fa9a7e0162378"
+        }
+      ]
+    },
+    {
+      "name": "'Dashboard Template'",
+      "cluster": 4,
+      "pages": [
+        {
+          "url": "https://www.mongodb.com/company/partners",
+          "uuid": "7fdbfa479cd3628acd9b2f234a4a0c731a79e5c4"
+        },
+        {
+          "url": "https://www.mongodb.com/company/sustainability",
+          "uuid": "e4522fcf63b6b14a0e67af98931e82cfafde0829"
+        },
+        {
+          "url": "https://www.mongodb.com/company/newsroom",
+          "uuid": "f736ae79caf7aa4dbaa12d6083ab39c2feb34dee"
+        },
+        {
+          "url": "https://www.mongodb.com/company/our-story",
+          "uuid": "c84237a8f53ff847b97b019f8ce7574518034c5b"
+        },
+        {
+          "url": "https://www.mongodb.com/company/values",
+          "uuid": "59603a3872d08b71e642bebf441798ec70fb497a"
+        }
+      ]
+    },
+    {
+      "name": "'Dashboard Template'",
+      "cluster": 5,
+      "pages": [
+        {
+          "url": "https://www.mongodb.com/company/newsroom/brand-resources",
+          "uuid": "409c455da7c87d58ab11f8fc20d54f1067b4ea20"
+        },
+        {
+          "url": "https://www.mongodb.com/company/newsroom/press-releases",
+          "uuid": "a3ea011c020253276a57c91cab331e6f4f043bb6"
+        },
+        {
+          "url": "https://www.mongodb.com/company/newsroom/news-coverage",
+          "uuid": "0c81b15ddb29d58af10b623cc3fd50e5e289f024"
+        }
+      ]
+    },
+    {
+      "name": "Dashboard",
+      "cluster": 6,
+      "pages": [
+        {
+          "url": "https://www.mongodb.com/pricing",
+          "uuid": "92bc5fbf9a6ebde4924c76dfb104572f8fb1b026"
+        }
+      ]
+    },
+    {
+      "name": "'Service Showcase'",
+      "cluster": 7,
+      "pages": [
+        {
+          "url": "https://www.mongodb.com/products/updates/version-release",
+          "uuid": "1077b0ae2f0811e43e620b1a79eb0b526e8d7566"
+        }
+      ]
+    },
+    {
+      "name": "\"Minimal Content Page\"",
+      "cluster": 8,
+      "pages": [
+        {
+          "url": "https://www.mongodb.com/legal/privacy/privacy-policy",
+          "uuid": "81172ec3cdc9781c05c52fbd4797cc6af3735ce0"
+        }
+      ]
+    },
+    {
+      "name": "'Directory Listing'",
+      "cluster": 9,
+      "pages": [
+        {
+          "url": "https://www.mongodb.com/products/updates/",
+          "uuid": "875863febedf66fb0837148be2830bd8e108d5a9"
+        }
+      ]
+    },
+    {
+      "name": "'Portfolio Showcase'",
+      "cluster": 10,
+      "pages": [
+        {
+          "url": "https://www.mongodb.com/events/mongodb-local/london?tck=pencil_banner",
+          "uuid": "e562ff7fda5f4458a344c2f949f7ff51e8cc67ef"
+        }
+      ]
+    },
+    {
+      "name": "'Generic Dashboard'",
+      "cluster": 11,
+      "pages": [
+        {
+          "url": "https://www.mongodb.com/press/mongodb-inc-announces-mike-berry-as-chief-financial-officer",
+          "uuid": "b66eee27641845ae8f01c4bb85bd8c1a862f458c"
+        },
+        {
+          "url": "https://www.mongodb.com/press/mongo-db-announces-commitment-to-achieve-fedramp-high-and-impact-level-5-authorizations",
+          "uuid": "208a0f9d22bdc2c045557b94b9b8d2cde7728968"
+        },
+        {
+          "url": "https://www.mongodb.com/press/mongodb-extends-search-and-vector-search-capabilities-to-self-managed-offerings",
+          "uuid": "dc6d13894f0f20fd9efaa30ce2390e3aa8b54a56"
+        },
+        {
+          "url": "https://www.mongodb.com/press/mongodb-strengthens-foundation-for-ai-applications-with-product-innovations-and-expanded-partner-ecosystem",
+          "uuid": "18709ec5178e8c13dfc65cae53b68df70641d26e"
+        },
+        {
+          "url": "https://www.mongodb.com/press/mongodb-launches-ai-powered-application-modernization-platform-to-reduce-technical-debt-and-speed-innovation",
+          "uuid": "9eba2303f9f556f8c3a020431ea17eb3858827c1"
+        }
+      ]
+    },
+    {
+      "name": "Dashboard Template",
+      "cluster": 12,
+      "pages": [
+        {
+          "url": "https://www.mongodb.com/docs/atlas/",
+          "uuid": "ff1aab333cfba4e9f524c4c4b148429e575acb48"
+        }
+      ]
+    }
+  ]
+}
