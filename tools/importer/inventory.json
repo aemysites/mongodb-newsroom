@@ -958,7 +958,8 @@
           "uuid": "59603a38-05-a19d291afc58534e7b5c3d096c2f07528a735cca",
           "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/section[1]"
         }
-      ]
+      ],
+      "key": "unknown19"
     },
     {
       "name": "Hero",
@@ -1166,7 +1167,8 @@
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[10]",
           "section": "section-17"
         }
-      ]
+      ],
+      "key": "unknown23"
     },
     {
       "name": "Hero",
@@ -1364,7 +1366,8 @@
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]",
           "section": "section-2"
         }
-      ]
+      ],
+      "key": "unknown29"
     },
     {
       "name": "Hero",
@@ -1391,7 +1394,8 @@
           "uuid": "875863fe-04-d72caa907dc624342957e5b0bf1f3f76c63d7ee7",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]"
         }
-      ]
+      ],
+      "key": "unknown31"
     },
     {
       "name": "Columns",
@@ -2046,7 +2050,8 @@
           "xpath": "/html[1]/body[1]/div[1]/main[1]/div[2]",
           "section": "section-2"
         }
-      ]
+      ],
+      "key": "unknown55"
     },
     {
       "name": "Columns",
