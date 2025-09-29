@@ -124,12 +124,6 @@
       "id": "0ba6b0164477cbc0777c598324d5cdfdb47b1292"
     },
     {
-      "url": "https://www.mongodb.com/products/platform/atlas-data-federation",
-      "source": "CRAWL",
-      "targetPath": "/products/platform/atlas-data-federation",
-      "id": "da1c6a36c7a281292cba31516e5bd0a74bf99670"
-    },
-    {
       "url": "https://www.mongodb.com/products/platform/atlas-database",
       "source": "CRAWL",
       "targetPath": "/products/platform/atlas-database",
