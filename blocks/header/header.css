@@ -1,4 +1,5 @@
-/* header and nav layout */
+/* stylelint-disable no-descending-specificity */
+
 header .nav-wrapper {
   background-color: var(--background-color);
   width: 100%;
@@ -9,21 +10,22 @@ header .nav-wrapper {
   flex-direction: column;
 }
 
-header nav {
-  box-sizing: border-box;
-  display: grid;
-  grid-template:
-    'hamburger brand tools' var(--nav-height)
-    'sections sections sections' 1fr / auto 1fr auto;
+/* --- MERGED header nav SELECTOR --- */
+header nav { display: flex; max-width: 1264px;
+  flex-direction: row;
   align-items: center;
-  gap: 0 24px;
-  margin: auto;
-  max-width: 1248px;
-  flex: 1;
-  padding: 0 24px;
+  justify-content: space-between;
+  width: 100%;
+  min-height: 32px;
+  height: 32px;
+  margin: 0 auto;
+  padding: 0 16px;
+  background: #00684A;
+  box-sizing: border-box;
+  gap: 0;
   font-family: var(--body-font-family);
 }
-
+ 
 header nav[aria-expanded='true'] {
   grid-template:
     'hamburger brand' var(--nav-height)
@@ -57,12 +59,10 @@ header nav a:any-link {
   color: currentcolor;
 }
 
-/* hamburger */
 header nav .nav-hamburger {
   grid-area: hamburger;
-  height: 22px;
-  display: flex;
-  align-items: center;
+  height: 22px; display: none;
+  align-items: center; visibility: hidden;
 }
 
 header nav .nav-hamburger button {
@@ -138,7 +138,6 @@ header nav[aria-expanded='true'] .nav-hamburger-icon::after {
   }
 }
 
-/* brand */
 header .nav-brand {
   grid-area: brand;
   flex-basis: 128px;
@@ -154,12 +153,9 @@ header nav .nav-brand img {
   max-width: 128px;
 }
 
-/* sections */
 header nav .nav-sections {
-  grid-area: sections;
-  flex: 1 1 auto;
-  display: none;
-  visibility: hidden;
+  grid-area: sections; flex: 1 1 0%; display: flex;
+  visibility: hidden; order: 2; min-width: 0; align-items: center;
 }
 
 header nav[aria-expanded='true'] .nav-sections {
@@ -267,24 +263,314 @@ header nav .nav-sections ul > li > ul > li {
   }
 }
 
-/* tools */
 header nav .nav-tools {
-  grid-area: tools;
+  grid-area: tools; order: 3; flex: 0 0 auto; display: flex; align-items: center; gap: 0;
 }
 
-/* containers */
+/* --- HEADER BACKGROUND & FIXED WRAPPER --- */
+.header-wrapper .nav-wrapper {
+  position: fixed;
+  z-index: 2;
+  top: 0; left: 0; width: 100%;
+  background: #00684A; justify-content: center; align-items: center;
+}
+
+header,
+.header-wrapper,
+.header-wrapper .nav-wrapper,
+header nav {
+  background: #00684A;
+}
+
+/* --- HEADER LAYOUT (BRAND | SECTIONS | TOOLS) --- */
+header nav .nav-brand {
+  order: 1;
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+}
+
+/* --- BRAND BADGE --- */
+header nav .nav-brand .default-content-wrapper {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+}
+
+header nav .nav-brand .default-content-wrapper span,
+header nav .nav-brand .default-content-wrapper p {
+  background: #D5FF4A;
+  color: #00684A;
+  font-family: 'Source Code Pro', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  border-radius: 10px;
+  height: 20px;
+  min-width: 32px;
+  padding: 2px 12px;
+  line-height: 16px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  margin: 0 8px 0 0;
+  vertical-align: middle;
+}
+
+/* --- LOGO IMAGE SIZING --- */
+header nav .nav-brand img,
+header nav .nav-brand picture img {
+  max-height: 20px;
+  width: auto;
+  object-fit: contain;
+  vertical-align: middle;
+  margin-right: 8px;
+}
+
+/* --- NOTIFICATION BAR (CENTRAL TEXT) --- */
+header nav .nav-sections .default-content-wrapper {
+  display: flex;
+  align-items: center;
+  min-width: 0;
+  width: 100%;
+  font-family: 'Source Code Pro', monospace;
+  font-size: 11px;
+  font-weight: 400;
+  letter-spacing: 0.01em;
+  color: #D5FF4A;
+  line-height: 1.6;
+  background: none;
+  margin: 0;
+  padding: 0;
+}
+
+header nav .nav-sections .default-content-wrapper p,
+header nav .nav-sections .default-content-wrapper span {
+  color: #D5FF4A;
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  line-height: inherit;
+  letter-spacing: inherit;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin: 0;
+}
+
+header nav .nav-sections .default-content-wrapper a {
+  color: #D5FF4A;
+  font-weight: 700;
+  text-decoration: underline;
+  transition: color .15s;
+}
+
+header nav .nav-sections .default-content-wrapper a:hover {
+  color: #B2DF2A;
+}
+
+/* --- TOOLS (ARROWS/RIGHT) --- */
+header nav .nav-tools .default-content-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 0;
+}
+
+header nav .nav-tools .default-content-wrapper button,
+header nav .nav-tools .default-content-wrapper .arrow {
+  background: transparent;
+  border: none;
+  width: 44px;
+  height: 44px;
+  min-width: 44px;
+  min-height: 44px;
+  padding: 0;
+  margin: 0 2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  border-radius: 50%;
+  transition: background .2s;
+}
+
+header nav .nav-tools .default-content-wrapper button:hover,
+header nav .nav-tools .default-content-wrapper .arrow:hover {
+  background: rgb(213 255 74 / 13%);
+}
+
+header nav .nav-tools .default-content-wrapper .arrow svg,
+header nav .nav-tools .default-content-wrapper button svg {
+  width: 24px;
+  height: 24px;
+  fill: none;
+  stroke: #D5FF4A;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  display: block;
+}
+
+/* --- ENSURE TOOLS BUTTONS/LINKS ARE VISIBLE --- */
+header nav .nav-tools a,
+header nav .nav-tools button,
+header nav .nav-tools .arrow {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* --- REMOVE ARTIFACTS --- */
 header .nav-top-container,
 header .nav-bottom-container {
   box-sizing: border-box;
-  display: flex;
+  display: none;
+  border: none;
+  background: none;
+  padding: 0;
+  margin: 0;
   flex-direction: column;
   align-items: center;
-  margin: auto;
   max-width: 1248px;
   flex: 0 0 auto;
-  padding: 0 24px;
   background-color: var(--background-color);
   font-size: var(--body-font-size-xs);
+}
+
+/* --- TOUCH TARGETS MINIMUM --- */
+header nav button,
+header nav .button,
+header nav .nav-tools .default-content-wrapper button,
+header nav .nav-tools .default-content-wrapper .arrow {
+  min-width: 44px;
+  min-height: 44px;
+}
+
+/* --- RESPONSIVE BREAKPOINTS --- */
+@media (width <= 899px) {
+  header nav {
+    flex-direction: column;
+    align-items: stretch;
+    min-height: 0;
+    height: auto;
+    padding: 4px 8px;
+    gap: 4px;
+  }
+
+  header nav .nav-brand,
+  header nav .nav-sections,
+  header nav .nav-tools {
+    width: 100%;
+    justify-content: flex-start;
+    align-items: center;
+    flex: 1 0 auto;
+    order: unset;
+  }
+
+  header nav .nav-brand .default-content-wrapper span,
+  header nav .nav-brand .default-content-wrapper p {
+    font-size: 13px;
+    padding: 4px 16px;
+    height: 32px;
+    min-width: 44px;
+    margin-right: 12px;
+  }
+
+  header nav .nav-sections .default-content-wrapper p,
+  header nav .nav-sections .default-content-wrapper span {
+    font-size: 13px;
+    white-space: normal;
+    text-align: left;
+    line-height: 1.6;
+  }
+
+  header nav .nav-tools .default-content-wrapper button,
+  header nav .nav-tools .default-content-wrapper .arrow {
+    width: 44px;
+    height: 44px;
+    min-width: 44px;
+    min-height: 44px;
+    margin: 0 6px 0 0;
+  }
+}
+
+@media (width >= 900px) {
+  header nav .nav-sections {
+    display: block;
+    visibility: visible;
+    white-space: nowrap;
+  }
+
+  header nav[aria-expanded='true'] .nav-sections {
+    align-self: unset;
+  }
+
+  header nav .nav-sections .nav-drop {
+    position: relative;
+    padding-right: 16px;
+    cursor: pointer;
+  }
+
+  header nav .nav-sections .nav-drop::after {
+    content: '';
+    display: inline-block;
+    position: absolute;
+    top: 0.5em;
+    right: 2px;
+    transform: rotate(135deg);
+    width: 6px;
+    height: 6px;
+    border: 2px solid currentcolor;
+    border-radius: 0 1px 0 0;
+    border-width: 2px 2px 0 0;
+  }
+
+  header nav .nav-sections .nav-drop[aria-expanded='true']::after {
+    top: unset;
+    bottom: 0.5em;
+    transform: rotate(315deg);
+  }
+
+  header nav .nav-sections ul {
+    display: flex;
+    gap: 24px;
+    margin: 0;
+  }
+
+  header nav .nav-sections .default-content-wrapper > ul > li {
+    flex: 0 1 auto;
+    position: relative;
+  }
+
+  header nav .nav-sections .default-content-wrapper > ul > li > ul {
+    display: none;
+    position: relative;
+  }
+
+  header nav .nav-sections .default-content-wrapper > ul > li[aria-expanded='true'] > ul {
+    display: block;
+    position: absolute;
+    left: -24px;
+    width: 200px;
+    top: 150%;
+    padding: 16px;
+    background-color: var(--light-color);
+    white-space: initial;
+  }
+
+  header nav .nav-sections .default-content-wrapper > ul > li > ul::before {
+    content: '';
+    position: absolute;
+    top: -8px;
+    left: 16px;
+    width: 0;
+    height: 0;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-bottom: 8px solid var(--light-color);
+  }
+
+  header nav .nav-sections .default-content-wrapper > ul > li > ul > li {
+    padding: 8px 0;
+  }
 }
 
 header .nav-top-container {
@@ -305,5 +591,74 @@ header .nav-bottom-container:empty {
   header .nav-bottom-container {
     max-width: 1264px;
     padding: 0 32px;
+  }
+}
+
+/* --- EDS FOUNDATION (required) --- */
+header { display: flex; }
+
+/* --- HEADER BACKGROUND & FIXED WRAPPER --- */
+
+/* --- HEADER LAYOUT (BRAND | SECTIONS | TOOLS) --- */
+
+/* --- BRAND BADGE --- */
+
+/* --- LOGO IMAGE SIZING --- */
+
+/* --- NOTIFICATION BAR (CENTRAL TEXT) --- */
+
+/* --- TOOLS (ARROWS/RIGHT) --- */
+
+/* --- ENSURE TOOLS BUTTONS/LINKS ARE VISIBLE --- */
+
+/* --- REMOVE ARTIFACTS --- */
+
+/* --- TOUCH TARGETS MINIMUM --- */
+
+/* --- RESPONSIVE BREAKPOINTS --- */
+@media (width <= 899px) {
+  header nav {
+    flex-direction: column;
+    align-items: stretch;
+    min-height: 0;
+    height: auto;
+    padding: 4px 8px;
+    gap: 4px;
+  }
+
+  header nav .nav-brand,
+  header nav .nav-sections,
+  header nav .nav-tools {
+    width: 100%;
+    justify-content: flex-start;
+    align-items: center;
+    flex: 1 0 auto;
+    order: unset;
+  }
+
+  header nav .nav-brand .default-content-wrapper span,
+  header nav .nav-brand .default-content-wrapper p {
+    font-size: 13px;
+    padding: 4px 16px;
+    height: 32px;
+    min-width: 44px;
+    margin-right: 12px;
+  }
+
+  header nav .nav-sections .default-content-wrapper p,
+  header nav .nav-sections .default-content-wrapper span {
+    font-size: 13px;
+    white-space: normal;
+    text-align: left;
+    line-height: 1.6;
+  }
+
+header nav .nav-tools .default-content-wrapper button,
+  header nav .nav-tools .default-content-wrapper .arrow {
+    width: 44px;
+    height: 44px;
+    min-width: 44px;
+    min-height: 44px;
+    margin: 0 6px 0 0;
   }
 }
