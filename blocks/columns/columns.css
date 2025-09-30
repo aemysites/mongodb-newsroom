@@ -120,3 +120,118 @@
   text-decoration: none;
   overflow-wrap: anywhere;
 }
+
+
+.columns.columns22 {
+  background: #0B1C26;
+  width: 100%;
+  min-height: 400px;
+  box-sizing: border-box;
+  padding: 48px 80px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: stretch;
+  gap: 96px;
+  position: relative;
+}
+
+/* Columns side by side and stretch to fill block height */
+.columns.columns22 > div {
+  flex: 1 1 0;
+  min-width: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  height: 100%;
+  position: relative;
+}
+
+/* Section header styling */
+.columns.columns22 strong {
+  text-transform: uppercase;
+  color: #fff;
+  font-weight: 700;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  margin-bottom: 22px;
+  margin-top: 0;
+  display: block;
+  line-height: 1.5;
+}
+
+/* Remove default list styles and spacing for ul */
+.columns.columns22 ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  flex: 1 0 auto;
+}
+
+/* List item styling */
+.columns.columns22 li {
+  font-size: 14px;
+  color: #A7B9C4;
+  margin-bottom: 17px;
+  line-height: 1.7;
+  font-weight: 400;
+  transition: color 0.2s;
+}
+
+/* Link styling within columns block */
+.columns.columns22 a {
+  color: #A7B9C4;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 400;
+  transition: color 0.2s;
+}
+
+.columns.columns22 a:hover,
+.columns.columns22 a:focus {
+  color: #36A27C;
+  text-decoration: underline;
+}
+
+/* Copyright: last li in last column, flush to bottom of block */
+.columns.columns22 > div:last-child ul li:last-child {
+  position: absolute;
+  bottom: 48px;
+  left: 0;
+  margin-bottom: 0;
+  font-size: 12px;
+  color: #A7B9C4;
+  opacity: 0.45;
+  line-height: 1.5;
+  width: 100%;
+}
+
+/* Responsive: stack columns vertically on narrow screens */
+@media (width <= 900px) {
+  .columns.columns22 {
+    flex-direction: column;
+    gap: 40px;
+    padding: 32px 16px;
+    min-height: 0;
+    align-items: stretch;
+  }
+
+  .columns.columns22 > div {
+    min-width: 0;
+    width: 100%;
+    height: auto;
+    justify-content: flex-start;
+  }
+
+  .columns.columns22 strong {
+    margin-bottom: 16px;
+  }
+
+  .columns.columns22 > div:last-child ul li:last-child {
+    position: static;
+    margin-top: 20px;
+    width: auto;
+  }
+}
