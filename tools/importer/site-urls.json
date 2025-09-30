@@ -3,6 +3,11 @@
   "aborted": false,
   "lastCrawled": "https://www.mongodb.com/company/newsroom",
   "urls": [
+        {
+      "url": "https://www.mongodb.com/products/platform",
+      "source": "MANUAL",
+      "targetPath": "/products/platform"
+    },
     {
       "url": "https://www.mongodb.com/company/newsroom",
       "source": "CRAWL",
